@@ -1,0 +1,380 @@
+# so_SO.aff - affix file for myspell-so
+#
+#   This program is free software; you can redistribute it and/or modify
+#   it under the terms of the GNU General Public License as published by
+#   the Free Software Foundation; either version 2 of the License, or
+#   (at your option) any later version.
+#
+#   This program is distributed in the hope that it will be useful,
+#   but WITHOUT ANY WARRANTY; without even the implied warranty of
+#   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#   GNU General Public License for more details.
+#
+#   You should have received a copy of the GNU General Public License
+#   along with this program; if not, write to the Free Software
+#   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.
+#
+#   Mohamed I. Mursal   mimursal (at) gmail.com
+#   Version 0.1 06.2009
+SET ISO8859-1
+TRY aiodynueklhsrgmwbxtqcfjSMWCDIAGHBKXQJ'-LNYTRPUF/EOpz
+NOSPLITSUGS
+# ordinal numbers 
+COMPOUNDMIN 1
+# only in compounds: 1th, 2th, 3th
+ONLYINCOMPOUND _
+# compound rules:
+# 1. [0-9]*1[0-9]th (10th, 11th, 12th, 56714th, etc.)
+# 2. [0-9]*[02-9](1aad|2aad|3rd|[4-9]th) (21st, 22nd, 123rd, 1234th, etc.)
+COMPOUNDRULE 2
+COMPOUNDRULE #*0{
+COMPOUNDRULE #*@}
+WORDCHARS 0123456789-'
+FLAGCHAR /
+#yaysay yaysay nayseenyeen ducee samee
+SFX A Y 29
+SFX A   0     s         [bjxdrcfhlmwi]i #baafis, buuxis, nadiifis, gaabis
+SFX A   0     n         [bjxdrcfhlmwi]i #baafin, buuxin, nadiifin, gaabin
+SFX A   0     ya        [bjxdrcfhlmwi]i #amar jamac ah
+SFX A   0     yay       [bjxdrcfhlmwi]i #kordhi, kordhiyay
+SFX A   0     yo        [bjxdrcfhlwi]i  #shuruud aniga
+SFX A   0     a         eey   #amar afeey -> afeeya, adkeey -> adkeeya
+SFX A   0     s         eey   #afeey -> afeeys, adkeey -> adkeeys
+SFX A   0     ay        eey   #afeeyay
+SFX A   0     o         eey   #afeeyo shuruud aniga
+SFX A   ey    ysay      eey   #afeey->afeysay, dhaweey->dhaweysay
+SFX A   ey    ysid       eey   #afeysid shuruud adiga
+SFX A   ey    yso       eey   #afeeyo shuruud ayada
+SFX A   ey    ynay      eey   #fogeey->fogeynay
+SFX A   ey    yno       eey   #afeyno shuruud anaga
+SFX A   0     seen      eey
+SFX A   ey    ysiin     eey   #afeeyo shuruud idinka, Koonfur
+SFX A   0     saan      eey   #afeeyo shuruud idinka, Woqooyi
+SFX A   0     een       eey
+SFX A   0     aan       eey   #afeeyo shuruud aniga
+SFX A   0     nin       eey   # Diidmo sharuudeed, Hadii aadan afeeynin
+SFX A   0     say       [bjxdrcfhlmwi]i
+SFX A   0     sid       [bjxdrcfhlmwi]i     #shuruud adiga
+SFX A   0     so        [bjxdrcfhlmwi]i     #shuruud ayada
+SFX A   0     nay       [bjxdrcfhlmwi]i
+SFX A   0     no        [bjxdrcfhlmwi]i     #shuruud anaga
+SFX A   0     seen      [bjxdrcfhlmwi]i
+SFX A   0     siin      [bjxdrcfhlmwi]i     #shuruud idinka
+SFX A   0     yeen      [bjxdrcfhlmwi]i
+SFX A   0     yaan      [bjxdrcfhlmwi]i     #shuruud ayaga
+#aytay aytay nayteeneen  cayaar sabar dabar bar?? dalab dhaawacan dhaawacmay dareen dareemay
+SFX B Y 29
+SFX B   0     is        [bgmr]        # Dhiibis, dir->diris
+SFX B   0     id        [s]        # tus->tisod, dir->diris
+SFX B   0     a         .       # amar jamac ah
+SFX B   ar    ra        [bf]ar  # amar jamac ah
+SFX B   0     ay        .       #
+SFX B   0     o         .        #Sharuud Aniga iyo Asaga
+SFX B   ar    ro        [bfg]ar       #Sharuud Aniga iyo Asaga hagar->hagro
+SFX B   an    may       an
+SFX B   n     may       een
+SFX B   ar    ray       [bfg]ar  #??
+SFX B   0     tay       .
+SFX B   m     ntay      m       #tilmaam ->tilmaamay->tilmaantay
+SFX B   0     to        .        #Shuruud-W Adiga iyo Ayada
+SFX B   m     nto       m        #Shuruud-W Adiga iyo Ayada tilmaam->tilmaanto
+SFX B   0     tid       .        #Shuruud-K Adiga
+SFX B   m     ntid      m        #Shuruud-K Adiga tilmaam->tilmaantid
+SFX B   0     nay       .
+SFX B   0     no        .        #Shuruud Anga 
+SFX B   m     no        m        #Shuruud Anga tilmaam->tilmaano
+SFX B   0     teen      .       #??
+SFX B   0     een       .       #??
+SFX B   ar    reen      [bfg]ar  #??
+SFX B   ab    been      lab   #??
+SFX B   0     tiin      .        #Shuruud Idinka: Hadaad u yeertiin, koonfur
+SFX B   0     taan      .        #Shuruud Idinka: Hadaad u yeertaan, woqooyi
+SFX B   an    meen      an
+SFX B   n     meen      een
+SFX B   0     aan       .        #Shuruud Ayaga
+SFX B   0     in        .        #Shuruud diidmo
+#ay-day-ay-day-nay-deen-een       
+SFX b Y 16
+SFX b   0     is        .   # horkac->horkacis, garaac->garaacis (daboolid?? galid??)
+SFX b   0     a         .   #amar jamac ah
+SFX b   0     ista      .   #horkac -> horkacista
+SFX b   0     ay        .   #Aniga: horkac->horkacay
+SFX b   0     day       .   #Adiga: horkac->horkacday 
+SFX b   0     nay       .
+SFX b   0     deen      .   #horkac->horkacdeen
+SFX b   0     een       .
+SFX b   0     o         .   #shuruud
+SFX b   0     do        .   #shuruud-W
+SFX b   0     did       .   #shuruud-K
+SFX b   0     no        .   #shuruud
+SFX b   0     diin      .   #shuruud-K
+SFX b   0     daan      .   #shuruud-W
+SFX b   0     aan       .   #shuruud
+SFX b   0     in        .   #shuruud  Diidmo, garaac->hadii aanan garaacin
+# ay-shay-ay-shay-nay-sheen-een o-shid-o-sho  -no-laan-shaan     
+SFX c Y 16
+SFX c   0     a         .   #amar jamac ah
+SFX c   0     is        .   # aqbal->aqbalis
+SFX c   0     id        .   # aqbal->aqbalid
+SFX c   0     ay        .   # anigaa aqbalay
+SFX c   l     shay      l   #aqbal-> aqbashay (adigaa)
+SFX c   0     nay       .   #aqbal->aqbalnay
+SFX c   l     sheen     l   #aqbal->aqbalnay
+SFX c   0     een       .
+SFX c   0     o         .   #shuruud    bedel->bedelo
+SFX c   l     shid      l   #shuruud
+SFX c   l     sho       l   #shuruud
+SFX c   0     no        .   #shuruud
+SFX c   l     shiin     l   #shuruud-K
+SFX c   l     shaan     l   #shuruud-W
+SFX c   0     aan       .   #shuruud
+SFX c   0     in        .   #shuruud    diidmo aqbalin
+#ayday ayday naydeeneen         
+SFX C Y 22
+SFX C   0     is       [q]     # dhawaaq->dhawaaqis
+SFX C   0     id       [x]     # maslax->maslixid
+SFX C   ac    icis     ac     # bixis, fasaxid
+SFX C   ax    ixis     bax     # bixis, fasaxid
+SFX C   0     a        .       #amar jamac ah
+SFX C   0     ay       .
+SFX C   ac    cay      mac
+SFX C   0     day      .
+SFX C   0     nay      .
+SFX C   0     deen     .
+SFX C   0     een      .
+SFX C   ac    ceen     mac
+SFX C   0     o        .   #shuruud
+SFX C   0     did      [^d]   #shuruud
+SFX C   0     id       [d]   #shuruud
+SFX C   0     do       .   #shuruud
+SFX C   0     no       .   #shuruud
+SFX C   0     diin     [^d]   #Shuruud Idinka: Hadaad ku gowracdiin, koonfur
+SFX C   0     iin      [d]   #Shuruud Idinka: Hadaad ku gowracdiin, koonfur
+SFX C   0     daan     .   #Shuruud Idinka: Hadaad ku dhawaaqdaan, woqooyi
+SFX C   0     aan      .   #shuruud
+SFX C   0     in       .   #shuruud diidmo
+#diid diiday wad waday qaad qaaday      
+SFX d Y 5
+SFX d   0     is        [aeiou]d    #qaadis, wadis, diidis
+SFX d   0     a         [aeiou]d    #amar jamac ah
+SFX d   0     ay        [aeiou]d
+SFX d   0     nay       [aeiou]d
+SFX d   0     een       [aeiou]d
+#baaqeyga qufaceeda qufaceena
+SFX E Y 15
+SFX E   0     eyga     . #mashruuc -> mashruuceyga
+SFX E   0     aada     . #Koonfur
+SFX E   0     aaga     . #Woqooyi
+SFX E   0     iisa     .
+SFX E   0     eeda     .
+SFX E   0     eena     .
+SFX E   0     iina     .
+SFX E   0     ooda     .
+SFX E   0     a        .
+SFX E   0     an       . #mashruuc-Amashuucan
+SFX E   0     ee       . #mashruuc->mashruucee
+SFX E   0     ii       .
+SFX E   0     aas      .
+SFX E   0     aan      .
+SFX E   0     yada     .
+#guri guriga gurigeyga gurigiina
+SFX G Y 13
+SFX G   0     geyga     .
+SFX G   0     gaada     .  #Guri->gurigaada Koonfur
+SFX G   0     gaaga     .  #guri->gurigaaga Woqooyi
+SFX G   0     giisa     .
+SFX G   0     geeda     .
+SFX G   0     geena     .
+SFX G   0     giina     .
+SFX G   0     gooda     .
+SFX G   0     ga        .
+SFX G   0     gii       .
+SFX G   0     gaas      .
+SFX G   0     gee       .  # Sabti->Sabtigee
+SFX G   0     gaan      .
+SFX g Y 5       #bil-> bisha, bishii, bishaas, nolol-> noloshaas
+SFX g   l     sha       l
+SFX g   l     shii      l
+SFX g   l     shaas     l
+SFX g   l     shaan     l
+SFX g   l     shee      l
+
+SFX H Y 18
+SFX H   e     aha       [bdlmnrt]e
+SFX H   e     ahaas     [bdlmnrt]e
+SFX H   e     ahaasi    [bdlmnrt]e
+SFX H   e     ihii      [bdlmnrt]e
+SFX H   0     aha       [aeiou]d    #sanad, sannadaha
+SFX H   0     aha       [rx]         #koox, kooxaha, hareer hareeraha, qayb->qaybaha
+SFX H   in    maha      lin
+SFX H   o     aha       [bdglmnqry]o #caano, caanaha    
+SFX H   0     ihii      [aeiou]d    #sanad, sannadaha
+SFX H   0     ihii      [rx]         #koox -> kooxihii, hareer->hareerihii 
+SFX H   in    mihii     lin
+SFX H   o     ihii      [bdglmnrqy]o
+SFX H   0     ahaas     [aeiou]d    #sanad, sannadaha
+SFX H   0     ahaas     [rx]        #koox->kooxaha, hareer->hareerahaas
+SFX H   in    mahaas    lin
+SFX H   o     ahaas     [bdglmnqry]o     #lacago, lacagaha, lacagahaas
+SFX H   o     ahaan     [bdglmnqry]o     #lacago, lacagaha, lacagahaas
+SFX H   o     ahee      [bdglmnqry]o     #su'aal lacago->lacagahee
+
+SFX h Y 11
+SFX h   o     aheyga    o  #lafo->lafaheyga
+SFX h   o     ahaada    o  #Koonfur, lafo->lafahaada
+SFX h   o     ahaaga    o  #Woqooyi, lafo->lafahaaga 
+SFX h   o     ahiisa    o
+SFX h   o     aheeda    o
+SFX h   o     aheena    o
+SFX h   o     ahiina    o
+SFX h   o     ahooda    o
+SFX h   o     ahii      o
+SFX h   o     ahaas     o
+SFX h   o     ahee      o
+
+SFX I Y 1
+SFX I   0     i         .
+#Lanhaansho iyo tilmaam
+SFX K Y 15
+SFX K   0     ka        .    #isbitaal -> isbitaalka
+SFX K   0     kan       .    #isbitaal -> isbitaalkan Woqooyi
+SFX K   0     kaan      .    #isbitaal -> isbitaalka  Koonfur
+SFX K   0     kee       .    #isbitaal -> isbitaalkee, aqoonyahan->aqoonyahankee
+SFX K   0     kii       .    #isbitaal -> isbitaalkii
+SFX K   0     kaas      .    #isbitaal -> isbitaalkaas
+SFX K   0     kaasi     .    #isbitaal -> isbitaalkaasi
+SFX K   0     keyga     .    #isbitaal -> isbitaalkeyga
+SFX K   0     kaada     .    #isbitaal -> isbitaalkaada, Koonfur?
+SFX K   0     kaaga     .    #isbitaal -> isbitaalkaada, Woqooyi?
+SFX K   0     kiisa     .    #isbitaal -> isbitaalkiisa
+SFX K   0     keeda     .    #isbitaal -> isbitaalkeeda
+SFX K   0     keena     .    #isbitaal -> isbitaalkeena
+SFX K   0     kiina     .    #isbitaal -> isbitaalkiina
+SFX K   0     kooda     .    #isbitaal -> isbitaalkooda
+#lahaansho iyo tilmaam DHIDIG
+SFX L Y 24
+SFX L   0     da        [cdiqxy]
+SFX L   0     dii       [cdiqxy]
+SFX L   0     daas      [cdiqxy]
+SFX L   0     deyda     [cdiqxy]    #Dowladdeyda, akhlaaqdeyda, madaafiicdeyda
+SFX L   0     daada     [cdiqxy]    #Dowladdaada, akhlaaqdaada, madaafiicdaada
+SFX L   0     diisa     [cdiqxy]    #Dowladdiisa, akhlaaqdiisa, madaafiicdiisa
+SFX L   0     deeda     [cdiqxy]    #Dowladdeeda, akhlaaqdeeda, madaafiicdeeda
+SFX L   0     deena     [cdiqxy]    #Dowladdeena, akhlaaqdeena, madaafiicdeena
+SFX L   0     diina     [cdiqxy]    #Dowladdiina, akhlaaqdiina, madaafiicdiina
+SFX L   0     dooda     [cdiqxy]    #Dowladdooda, aklaaqdooda, madaafiicdooda
+SFX L   0     dee       [cdiqxy]    #dowlad->dowladdee, maslaxad->maslaxaddee
+SFX L   0     da        d[i]    #??
+SFX L   o     ada       [bcdhlmnry]o  #Canjeero -> cajeerada
+SFX L   o     adii      [bcdhlmnry]o  #Degmo -> degmadii
+SFX L   o     adaas     [bcdhlmnry]o   #degmo -> degmadaas
+SFX L   o     adee      [bcdhlmnry]o   #degmo -> degmadee SU'AAL, Jimco->Jimcadee
+SFX L   o     adaan     [bcdhmnlry]o  #Degmo -> Degmadaan
+SFX L   o     adeyda    [bcdhmnlry]o
+SFX L   o     adaada    [bcdhmnlry]o
+SFX L   o     adiisa    [bcdhmnlry]o
+SFX L   o     adeeda    [bcdhmnlry]o
+SFX L   o     adeena    [bcdhmnlry]o
+SFX L   o     adiina    [bcdhmnlry]o
+SFX L   o     adooda    [bcdhmnlry]o
+SFX M Y 6           # hayso baro 
+SFX M   o     ta        o       # amar jamac ah
+SFX M   o     taa       o   #shaqyeso->shaqeysta
+SFX M   o     ataa      o
+SFX M   o     anaa      o
+SFX M   o     atiin     o
+SFX M   o     taan      o
+SFX N Y 20
+SFX N   o     asho      o #qabo->qabasho, naso->nasasho, toogo->toogasho
+SFX N   o     da        [^bcfgstr]o #amarka jamaca
+SFX N   o     ta        [bcfgstr]o  #amarka jamaca
+SFX N   o     tay       o
+SFX N   o     day       xo
+SFX N   o     atay      o
+SFX N   o     anay      o
+SFX N   o     ateen     o
+SFX N   o     teen      o
+SFX N   o     deen      xo
+SFX N   o     adeen     dso
+SFX N   o     to        o #shuruud Aniga: jiifo->jiifto 
+SFX N   o     ato       o #shuruud Aniga: jiifo->jiifato 
+SFX N   o     atid      o #shuruud Aniga: jiifo->jiifatid 
+SFX N   o     ano       o #shuruud Anaga: jiifo->jiifano 
+SFX N   o     ataan     o #shuruud Idinka: Woqooyi, jiifo->jiifataan
+SFX N   o     atiin     o #sharuud Idinka: Koonfur, 
+SFX N   o     taan      o #shuruud Ayaga: jiifo->jiiftaan 
+SFX N   o     anin      o   #Diidmo: dhageyso->dhageysanin
+SFX N   o     ashada    o  # dhagayso->dhagaysashada
+SFX n Y 5
+SFX n   d     tay       d
+SFX n   0     atay      .
+SFX n   0     anay      .
+SFX n   0     ateen     .
+SFX n   d     teen      d
+# codso 
+SFX O Y 13
+SFX O   o     ada       so
+SFX O   o     aday      so
+SFX O   o     atay      so
+SFX O   o     anay      so
+SFX O   o     ateen     so
+SFX O   o     adeen     so
+SFX O   o     ado       so
+SFX O   o     ato       so
+SFX O   o     ano       so
+SFX O   o     ataan     so #Sharuud-W
+SFX O   o     atiin     so #Shuruud-K
+SFX O   o     anin      so
+SFX O   o     asho      so
+# soco noqo
+SFX R Y 6
+SFX R   o     da        o       #amar jamac ah
+SFX R   o     day       o
+SFX R   0     tay       .
+SFX R   0     nay       .
+SFX R   0     teen      .
+SFX R   o     deen      o
+#SFX N Y 1
+#SFX N   0     in         .
+#Weli ma cadda meesha ay ku haboontahay
+SFX S Y 3
+SFX S   0     sid         .
+SFX S   l     shid        l
+SFX S   0     tid         [aeiou]r
+#lahaansho iyo tilmaam DHIDIG
+SFX T Y 24
+SFX T   0     teyda     .
+SFX T   0     taada     .
+SFX T   0     tiisa     .
+SFX T   0     teeda     .
+SFX T   0     teena     .
+SFX T   0     tiina     .
+SFX T   0     tooda     .
+SFX T   0     ta        .
+SFX T   0     tii       .
+SFX T   0     taas      .
+SFX T   0     tee       .
+SFX T   0     taan      .
+SFX T   0     nteyda     [bdfhjlmrx]i
+SFX T   0     ntaada     [bdfhjlmrx]i
+SFX T   0     ntiisa     [bdfhjlmrx]i
+SFX T   0     nteeda     [bdfhjlmrx]i
+SFX T   0     nteena     [bdfhjlmrx]i
+SFX T   0     ntiina     [bdfhjlmrx]i
+SFX T   0     ntooda     [bdfhjlmrx]i
+SFX T   0     nta        [bdfhjlmrx]i
+SFX T   0     ntii       [bdfhjlmrx]i
+SFX T   0     ntaas      [bdfhjlmrx]i
+SFX T   0     ntee       [bdfhjlmrx]i
+SFX T   0     ntaan      [bdfhjlmrx]i
+# horgale aanan dhameystirneyn
+PFX U Y 2
+PFX U   0     ku        .
+PFX U   0     ka        .
+#Erayo la isku bedeli karo
+REP 5
+REP ey ay
+REP ay ey
+REP Somalia Soomaaliya
+REP Somaliland Soomaaliland
+REP yidhi yiri

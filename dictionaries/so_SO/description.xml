@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+            <version value="1.0.2" />
+    <identifier value="org.opensourcesomalia.mursal.dict-so.oxt" />
+    <display-name>
+        <name lang="en">Somali spelling dictionary by MI Mursal</name>
+        <name lang="so">Higgaad-saxaha Afka-Soomaaliga Qore MI Mursal</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+    <publisher>
+        <name xlink:href="http://www.opensourcesomalia.org">Openssourcesomalia</name>
+    </publisher>
+    <icon>
+       <default xlink:href="images/icon.png" />
+    </icon>
+    <update-information>
+        <src xlink:href="http://www.opensourcesomalia.org/uploads/extension.update.xml" />
+    </update-information>
+</description>
+

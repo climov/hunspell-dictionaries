@@ -1,0 +1,183 @@
+SET UTF-8
+LANGCODE bo
+
+# ignoring Ux0F35 and Ux0F37, as they are extremely rare but valid.
+# This means that a syllable containing these signs at invalid places will not
+# be detected by the spell checker, but this makes the code more simple at
+# almost no cost
+IGNORE ༵༷
+
+NOSPLITSUGS
+
+# The "N" makes the suffixes mandatory. It is used only with B, example: དཀ/NB,
+# in this case, དཀ is invalid, but is not if there is a suffix.
+NEEDAFFIX N
+
+# grammatical suffixes only
+SFX C Y 8
+SFX C 0 འི . +'brel_sgra
+SFX C 0 འོ . +slar_bsdu
+SFX C 0 འིའོ . +'brel_sgra_slar_bsdu
+SFX C 0 ར . +la_don
+SFX C 0 ས . +byed_sgra
+SFX C 0 འང . +rgyan_sdud
+SFX C 0 འམ . +'byed_sdud
+SFX C 0 /D .
+
+# Words with mandatory vowel or suffix
+# If no ashung and no vowel, a suffix is mandatory
+SFX B Y 14
+SFX B 0 ི/S . +i
+SFX B 0 ུ/S . +u
+SFX B 0 ེ/S . +e
+SFX B 0 ོ/S . +o
+SFX B 0 ི/D . +i
+SFX B 0 ུ/D . +u
+SFX B 0 ེ/D . +e
+SFX B 0 ོ/D . +o
+SFX B 0 འ . +ashung
+SFX B 0 འབོ . +ashung+bo
+SFX B 0 འཝ . +ashung+b
+SFX B 0 འམ . +ashung+m
+SFX B 0 འམོ . +ashung+mo
+SFX B 0 /NS .
+
+# Non-mandatory vowel or suffix. In these cases, no ashung is possible, see
+# the documentation.
+SFX A Y 10
+SFX A 0 ི/S . +i
+SFX A 0 ུ/S . +u
+SFX A 0 ེ/S . +e
+SFX A 0 ོ/S . +o
+SFX A 0 ི/D . +i
+SFX A 0 ུ/D . +u
+SFX A 0 ེ/D . +e
+SFX A 0 ོ/D . +o
+SFX A 0 /S .
+SFX A 0 /D .
+
+# affixed particles after suffixes, all versions
+SFX D Y 8
+SFX D 0 ཝ . +b
+SFX D 0 བོ . +bo
+SFX D 0 པ . +p
+SFX D 0 པོ . +po
+SFX D 0 མ . +m
+SFX D 0 མོ . +mo
+SFX D 0 ན . +n
+SFX D 0 ནི . +ni
+
+# List of suffixes used by both A and B
+SFX S Y 103
+SFX S 0 ག . +g
+SFX S 0 གས . +gs
+SFX S 0 ང . +ng
+SFX S 0 ངས . +ngs
+SFX S 0 ད . +d
+SFX S 0 ན . +n
+SFX S 0 བ . +b
+SFX S 0 བས . +bs
+SFX S 0 མ . +m
+SFX S 0 མས . +ms
+SFX S 0 འི . +'brel_sgra
+SFX S 0 འོ . +slar_bsdu
+SFX S 0 འིའོ . +'brel_sgra_slar_bsdu
+SFX S 0 འང . +rgyan_sdud
+SFX S 0 འམ . +'byed_sdud
+SFX S 0 ར . +r
+SFX S 0 ལ . +l
+SFX S 0 ས . +s
+SFX S 0 གཔ . +g+p
+SFX S 0 གཔོ . +g+po
+SFX S 0 གམ . +g+m
+SFX S 0 གམོ . +g+mo
+SFX S 0 གན . +g+n
+SFX S 0 གནི . +g+ni
+SFX S 0 གསཝ . +gs+b
+SFX S 0 གསཔ . +gs+p
+SFX S 0 གསཔོ . +gs+po
+SFX S 0 གསམ . +gs+m
+SFX S 0 གསམོ . +gs+mo
+SFX S 0 གསན . +gs+n
+SFX S 0 གསནི . +gs+ni
+SFX S 0 ངཝ . +ng+b
+SFX S 0 ངབོ . +ng+bo
+SFX S 0 ངཔ . +ng+p
+SFX S 0 ངཔོ . +ng+po
+SFX S 0 ངམ . +ng+m
+SFX S 0 ངམོ . +ng+mo
+SFX S 0 ངན . +ng+n
+SFX S 0 ངནི . +ng+ni
+SFX S 0 ངསཝ . +ngs+b
+SFX S 0 ངསཔ . +ngs+p
+SFX S 0 ངསཔོ . +ngs+po
+SFX S 0 ངསམ . +ngs+m
+SFX S 0 ངསམོ . +ngs+mo
+SFX S 0 ངསན . +ngs+n
+SFX S 0 ངསནི . +ngs
+SFX S 0 དཝ . +d+b
+SFX S 0 དཔ . +d+p
+SFX S 0 དཔོ . +d+po
+SFX S 0 དམ . +d+m
+SFX S 0 དམོ . +d+mo
+SFX S 0 དན . +d+n
+SFX S 0 དནི . +d+ni
+SFX S 0 ནཔ . +n+p
+SFX S 0 ནཔོ . +n+po
+SFX S 0 ནམ . +n+m
+SFX S 0 ནམོ . +n+mo
+SFX S 0 ནན . +n+n
+SFX S 0 ནནི . +n+ni
+SFX S 0 བཔ . +b+p
+SFX S 0 བམ . +b+m
+SFX S 0 བམོ . +b+mo
+SFX S 0 བན . +b+n
+SFX S 0 བནི . +b+ni
+SFX S 0 བསཝ . +bs+b
+SFX S 0 བསཔ . +bs+p
+SFX S 0 བསཔོ . +bs+po
+SFX S 0 བསམ . +bs+m
+SFX S 0 བསམོ . +bs+mo
+SFX S 0 བསན . +bs+n
+SFX S 0 བསནི . +bs+ni
+SFX S 0 མཔ . +m+p
+SFX S 0 མཔོ . +m+po
+SFX S 0 མན . +m+n
+SFX S 0 མནི . +m+ni
+SFX S 0 མསཝ . +ms+b
+SFX S 0 མསཔ . +ms+p
+SFX S 0 མསཔོ . +ms+po
+SFX S 0 མསམ . +ms+m
+SFX S 0 མསམོ . +ms+mo
+SFX S 0 མསན . +ms+n
+SFX S 0 མསནི . +ms+ni
+SFX S 0 རཝ . +r+b
+SFX S 0 རཔ . +r+p
+SFX S 0 རཔོ . +r+po
+SFX S 0 རམ . +r+m
+SFX S 0 རམོ . +r+mo
+SFX S 0 རན . +r+n
+SFX S 0 རནི . +r+ni
+SFX S 0 ལཝ . +l+b
+SFX S 0 ལཔ . +l+p
+SFX S 0 ལཔོ . +l+po
+SFX S 0 ལམ . +l+m
+SFX S 0 ལམོ . +l+mo
+SFX S 0 ལན . +l+n
+SFX S 0 ལནི . +l+ni
+SFX S 0 སཝ . +s+b
+SFX S 0 སཔ . +s+p
+SFX S 0 སཔོ . +s+po
+SFX S 0 སམ . +s+m
+SFX S 0 སམོ . +s+mo
+SFX S 0 སན . +s+n
+SFX S 0 སནི . +s+ni
+
+# Replace archaic forms by modern ones
+REP 6
+REP འིས ས
+REP འའིས ས
+REP འར ར
+REP ནད ན
+REP རད ར
+REP ལད ལ

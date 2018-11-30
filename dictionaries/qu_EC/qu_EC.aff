@@ -1,0 +1,118 @@
+# ----------------------------------------------------------------------------------
+#
+#    Shukllachiska Kichwa del Ecuador, hunspell format dictionary affix file
+#    Copyright (C) 2009 Arno Teigseth, Henry David Lara
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU Affero General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU Affero General Public License for more details.
+#
+#    You should have received a copy of the GNU Affero General Public License
+#    along with this program. See LICENSE.txt. If not, see <http://www.gnu.org/licenses/>.
+#
+#    The author(s) can be contacted at arno at teigseth dot no
+#
+# ----------------------------------------------------------------------------------
+# 
+
+BREAK 1
+BREAK -
+# Allow checking of words on both sides of - : Mateo 10: 12-kama 16-tami will check 12 and kama separately
+
+SET UTF-8
+TRY akinuhstpmrclyoweñdbjgvzfqx
+
+NOSUGGEST !   # Bad words, don't suggest them.
+
+FORBIDDENWORD ¤  # Bad combinations.
+
+COMPOUNDMIN 1 # Minimum length of compound words
+
+COMPOUNDBEGIN /      # start comp, all words (except accented ones) in kichwa...
+COMPOUNDMIDDLE -     # middle comp
+COMPOUNDEND >        # end comp
+COMPOUNDPERMITFLAG + # allow (stem+affix)+compound
+COMPOUNDFORBIDFLAG 1 # words not allowed in compounds, e.g. espíritu ok but not espírituka
+                     # really redundant for the words with no / specified
+ONLYINCOMPOUND x     # words allowed only in compounds, e.g. espíritu/ ok while forcing espiritu|ka = espiritu//x
+
+REP 8
+REP ai ay
+REP gui ki
+REP hua wa
+REP j k
+REP ng nk
+REP qui ki
+REP taj tak
+REP iy y
+
+
+# VERBS
+
+## Suggestions from norsk quechua-side på wikipedia:
+## -naku (gjensidig) klemme markana -hverandre markanakuna ?
+## -chka kontinuerlig "to be eating" mikuchkana | mikuna
+
+SFX v Y 39        #Verbs, conjugation
+SFX v na na//+ na          # Infinitive
+SFX v na ni//+ na          # Present 1st person singular
+SFX v na nki//+ na         # Present 2nd person singular | Future 2nd person singular/plural
+SFX v na n//+ na           # Present 3rd person singular
+SFX v na nchik//+ na       # Present 1st person plural
+SFX v na nkichik//+ na     # Present 2nd person plural
+SFX v na nkuna//+ na       # Present 3nd person plural
+SFX v na sha//+ na         # Future 1st person singular
+SFX v na nka//+ na         # Future 3rd person singular/plural
+SFX v na shun//+ na        # Future 1st person plural
+SFX v na rkani//+ na       # Past 1st person singular
+SFX v na rkanki//+ na      # Past 2nd person singular
+SFX v na rka//+ na         # Past 3rd person singular
+SFX v na rkanchik//+ na    # Past 1st person plural
+SFX v na rkankichik//+ na  # Past 2nd person plural
+SFX v na rkankuna//+ na    # Past 3nd person plural
+SFX v na nkapak//+ na      # for/to
+SFX v na shpaka//+ na      # Contitional same person
+SFX v na kpika//+ na       # Contitional other person
+SFX v na k//+ na           # Personification
+SFX v na y//+ [^i]na       # Imperative 1st person singular / Nounification rura|na   => rura|y
+SFX v na yari// [^i]na     # "More" Imperative 1st person singular / Nounification rura|na   => rura|y
+SFX v ina i//+ ina         # Imperative 1st person singular / Nounification yuyari|na => yuyar|i (not yuyariy)
+SFX v na pay//+ na         # Imperative 1st person singular POLITE
+SFX v na panki//+ na       # Imperative 3rd person singular POLITE
+SFX v na pankichik//+ na   # Imperative 1st person plural POLITE
+SFX v na payari// na       # "More" Imperative 1st person singular POLITE
+SFX v na chun//+ na        # Imperative 3rd person singular / Present subjunctive
+SFX v na ychi//+ na        # Imperative 2nd person plural
+SFX v na chunkuna//+ na    # Imperative 3rd person plural
+SFX v na shkani//+ na      # Perfect 1st person singular
+SFX v na shkanki//+ na     # Perfect 2nd person singular
+SFX v na shka//+ na        # Perfect 3rd person singular
+SFX v na shkanchik//+ na   # Perfect 1st person plural
+SFX v na shkankichik//+ na # Perfect 2nd person plural
+SFX v na shkakuna//+ na    # Perfect 3rd person plural
+SFX v na shkarka//+ na     # Plusperfect [persons?]
+SFX v na shpa//+ na        # Gerund same person.
+SFX v na shkanka//+ na     # bh
+
+# Infixes like -ri- -ku- -gri- etc are to be put in qi_EC.dic
+# See qi_EC.dic.MASTER
+
+## Suggestions from norsk quechua(Cusco)-side på wikipedia:
+
+## -mi- (helt sikkert) Ñuka shuti Arnomi kan.
+## -si- ("tror jeg") Tayta Galo chufirsi (Mr Galo er sjåfør - eller jeg tror det ihvertfall)
+## -chá (sannsynligvis) Tayta Galo chufirchá (Mr Galo er sannsynligvis sjåfør)
+## -pa-  til fordel for andre
+## -ku-  til fordel for ham selv
+### -ku- er diminutiv når brukt i substantiver.
+## -ri-  ubetydelig, meningsløs
+## -yku- uvanlig
+## -ru-  viktig, haster
+## -lla- beklagelig
+## -sqa- var ikke talerens ansvar

@@ -1,0 +1,26 @@
+{
+  "name": "dictionary-tr",
+  "version": "1.2.1",
+  "description": "Turkish spelling dictionary in UTF-8",
+  "license": "MIT",
+  "keywords": [
+    "spelling",
+    "myspell",
+    "hunspell",
+    "dictionary",
+    "tr",
+    "turkish"
+  ],
+  "repository": "https://github.com/wooorm/dictionaries/tree/master/dictionaries/tr",
+  "bugs": "https://github.com/wooorm/dictionaries/issues",
+  "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+    "Thomas Beverley <tom.beverley101@gmail.com>"
+  ],
+  "files": [
+    "index.js",
+    "index.aff",
+    "index.dic"
+  ]
+}

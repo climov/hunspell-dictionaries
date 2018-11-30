@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <identifier value="org.openoffice.ro.dictionaries.ru-tt" />
+
+    <version value="0.1.4" />
+
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="Tatar Dictionaries for OpenOffice.org 3.0"/>
+    </dependencies>
+
+
+    <display-name>
+      <name lang="ru">Орфографический словарь татарского языка</name>
+      <name lang="en">Tatar spellchecker dictionary</name>
+    </display-name>
+
+  <icon>
+    <default xlink:href="icon.png" />
+  </icon>
+
+</description>
