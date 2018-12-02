@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Ecuador)",
+    "variantID": "es_EC",
+    "variantName": "Ecuador",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Ecuador",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,644",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

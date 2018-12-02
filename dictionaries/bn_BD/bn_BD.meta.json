@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Bengali/Bangla",
+    "variantID": "bn_BD",
+    "variantName": "",
+    "defaultPreset": "begali",
+    "isDefault": true,
+    "languageName": "Bengali/Bangla",
+    "languageID": "bn",
+    "qlanguage": "Bengali",
+    "qscript": "Bengali",
+    "qcountry": "Bangladesh",
+    "pack": "bengali",
+    "version": "1.0.0",
+    "sourceVersion": "0.08 (2012-01-04)",
+    "stems": "503,573",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

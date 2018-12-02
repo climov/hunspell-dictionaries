@@ -1,0 +1,18 @@
+{
+    "variantFullName": "French",
+    "variantID": "fr_FR",
+    "variantName": "Recommended",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "French",
+    "languageID": "fr",
+    "qlanguage": "French",
+    "qscript": "Latin",
+    "qcountry": "France",
+    "pack": "basic",
+    "version": "1.0.0",
+    "sourceVersion": "4.2",
+    "stems": "67,498",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

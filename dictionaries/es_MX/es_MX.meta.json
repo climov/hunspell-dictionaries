@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Mexico)",
+    "variantID": "es_MX",
+    "variantName": "Mexico",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Mexico",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,768",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

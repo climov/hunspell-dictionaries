@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Somali",
+    "variantID": "so_SO",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Somali",
+    "languageID": "so",
+    "qlanguage": "Somali",
+    "qscript": "Latin",
+    "qcountry": "Somalia",
+    "pack": "somali",
+    "version": "1.0.0",
+    "sourceVersion": "0.1 (06.2009)",
+    "stems": "29,639",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

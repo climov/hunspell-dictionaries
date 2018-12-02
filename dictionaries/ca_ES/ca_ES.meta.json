@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Catalan",
+    "variantID": "ca_ES",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Catalan",
+    "languageID": "ca",
+    "qlanguage": "Catalan",
+    "qscript": "Latin",
+    "qcountry": "Spain",
+    "pack": "catalan",
+    "version": "1.0.0",
+    "sourceVersion": "3.0.2 (24-05-2017)",
+    "stems": "133,380",
+    "source": "worm",
+    "dictType": "hs"
+}

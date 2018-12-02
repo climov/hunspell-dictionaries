@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Persian (Farsi)",
+    "variantID": "fa_IR",
+    "variantName": "",
+    "defaultPreset": "arabic",
+    "isDefault": true,
+    "languageName": "Persian (Farsi)",
+    "languageID": "fa",
+    "qlanguage": "Persian",
+    "qscript": "Arabic",
+    "qcountry": "Iran",
+    "pack": "arabic",
+    "version": "1.0.0",
+    "sourceVersion": "1.0 (2015-12-01)",
+    "stems": "61,839",
+    "source": "",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Gujarati",
+    "variantID": "gu_IN",
+    "variantName": "",
+    "defaultPreset": "gujarati",
+    "isDefault": true,
+    "languageName": "Gujarati",
+    "languageID": "gu",
+    "qlanguage": "Gujarati",
+    "qscript": "Gujarati",
+    "qcountry": "India",
+    "pack": "gujarati",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "168,957",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

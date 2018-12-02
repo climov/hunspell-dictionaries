@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Occitan",
+    "variantID": "oc_FR",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Occitan",
+    "languageID": "oc",
+    "qlanguage": "Occitan",
+    "qscript": "Latin",
+    "qcountry": "France",
+    "pack": "occitan",
+    "version": "1.0.0",
+    "sourceVersion": "0.2",
+    "stems": "53,791",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

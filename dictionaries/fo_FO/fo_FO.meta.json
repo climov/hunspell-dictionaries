@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Faeroese",
+    "variantID": "fo_FO",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Faeroese",
+    "languageID": "fo",
+    "qlanguage": "Faroese",
+    "qscript": "Latin",
+    "qcountry": "FaroeIslands",
+    "pack": "faeroese",
+    "version": "1.0.0",
+    "sourceVersion": "2011",
+    "stems": "121,832",
+    "source": "worm",
+    "dictType": "hs"
+}

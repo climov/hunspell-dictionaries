@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Azerbaijani (Latin)",
+    "variantID": "az_AZ-Latn",
+    "variantName": "Latin",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Azerbaijani",
+    "languageID": "az",
+    "qlanguage": "Azerbaijani",
+    "qscript": "Latin",
+    "qcountry": "Azerbaijan",
+    "pack": "azerbaijani",
+    "version": "1.0.0",
+    "sourceVersion": "2004",
+    "stems": "19,131",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

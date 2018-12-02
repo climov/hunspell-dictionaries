@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Oriya",
+    "variantID": "or_IN",
+    "variantName": "",
+    "defaultPreset": "oriya",
+    "isDefault": true,
+    "languageName": "Oriya",
+    "languageID": "or",
+    "qlanguage": "Oriya",
+    "qscript": "Oriya",
+    "qcountry": "India",
+    "pack": "oriya",
+    "version": "1.0.0",
+    "sourceVersion": "2002",
+    "stems": "1,029",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

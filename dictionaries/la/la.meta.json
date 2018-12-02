@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Latin (Universal)",
+    "variantID": "la",
+    "variantName": "Universal",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Latin",
+    "languageID": "la",
+    "qlanguage": "Latin",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "latin",
+    "version": "1.0.0",
+    "sourceVersion": "3.1 (2013-03-31)",
+    "stems": "136,255",
+    "source": "worm",
+    "dictType": "hs"
+}

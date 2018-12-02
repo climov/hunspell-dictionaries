@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Galician",
+    "variantID": "gl",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Galician",
+    "languageID": "gl",
+    "qlanguage": "Galician",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "galician",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "85,974",
+    "source": "worm",
+    "dictType": "hs"
+}

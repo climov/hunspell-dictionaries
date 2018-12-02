@@ -1,0 +1,18 @@
+{
+    "variantFullName": "German",
+    "variantID": "de_DE",
+    "variantName": "Germany",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "German",
+    "languageID": "de",
+    "qlanguage": "German",
+    "qscript": "Latin",
+    "qcountry": "Germany",
+    "pack": "basic",
+    "version": "1.0.0",
+    "sourceVersion": "20161207",
+    "stems": "75,767",
+    "source": "worm",
+    "dictType": "hs"
+}

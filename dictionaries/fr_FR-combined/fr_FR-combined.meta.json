@@ -1,0 +1,18 @@
+{
+    "variantFullName": "French (Combined)",
+    "variantID": "fr_FR-combined",
+    "variantName": "Combined",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "French",
+    "languageID": "fr",
+    "qlanguage": "French",
+    "qscript": "Latin",
+    "qcountry": "France",
+    "pack": "french",
+    "version": "1.0.0",
+    "sourceVersion": "4.2",
+    "stems": "70,842",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

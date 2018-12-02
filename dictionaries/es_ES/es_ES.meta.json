@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Spain)",
+    "variantID": "es_ES",
+    "variantName": "Spain",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Spain",
+    "pack": "basic",
+    "version": "1.0.0",
+    "sourceVersion": "0.7",
+    "stems": "54,895",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

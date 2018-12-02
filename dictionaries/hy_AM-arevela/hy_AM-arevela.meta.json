@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Armenian (Eastern)",
+    "variantID": "hy_AM-arevela",
+    "variantName": "Eastern",
+    "defaultPreset": "armenian",
+    "isDefault": true,
+    "languageName": "Armenian",
+    "languageID": "hy",
+    "qlanguage": "Armenian",
+    "qscript": "Armenian",
+    "qcountry": "Armenia",
+    "pack": "armenian",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "67,875",
+    "source": "worm",
+    "dictType": "hs"
+}

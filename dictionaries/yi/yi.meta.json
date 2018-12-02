@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Yiddish",
+    "variantID": "yi",
+    "variantName": "",
+    "defaultPreset": "hebrew",
+    "isDefault": true,
+    "languageName": "Yiddish",
+    "languageID": "yi",
+    "qlanguage": "Yiddish",
+    "qscript": "Hebrew",
+    "qcountry": "",
+    "pack": "hebrew",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "107,937",
+    "source": "",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Klingon",
+    "variantID": "tlh-Latn",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Klingon",
+    "languageID": "tlh",
+    "qlanguage": "",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "klingon",
+    "version": "1.0.0",
+    "sourceVersion": "1.0.1 (2018-11-06)",
+    "stems": "3,805",
+    "source": "",
+    "dictType": "hs"
+}

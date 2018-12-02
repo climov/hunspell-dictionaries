@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Luxembourgish",
+    "variantID": "lb_LU",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Luxembourgish",
+    "languageID": "lb",
+    "qlanguage": "Luxembourgish",
+    "qscript": "Latin",
+    "qcountry": "Luxembourg",
+    "pack": "luxembourgish",
+    "version": "1.0.0",
+    "sourceVersion": "2018",
+    "stems": "86,609",
+    "source": "worm",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Norwegian (Bokmal)",
+    "variantID": "nb_NO",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Norwegian (Bokmal)",
+    "languageID": "nb",
+    "qlanguage": "NorwegianBokmal",
+    "qscript": "Latin",
+    "qcountry": "Norway",
+    "pack": "norwegian",
+    "version": "1.0.0",
+    "sourceVersion": "2.2",
+    "stems": "322,043",
+    "source": "worm",
+    "dictType": "hs"
+}

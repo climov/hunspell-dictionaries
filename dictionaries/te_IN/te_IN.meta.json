@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Telugu",
+    "variantID": "te_IN",
+    "variantName": "",
+    "defaultPreset": "telugu",
+    "isDefault": true,
+    "languageName": "Telugu",
+    "languageID": "te",
+    "qlanguage": "Telugu",
+    "qscript": "Telugu",
+    "qcountry": "India",
+    "pack": "telugu",
+    "version": "1.0.0",
+    "sourceVersion": "0.01-2 (2010)",
+    "stems": "125,083",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

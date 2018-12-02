@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Indonesian",
+    "variantID": "id_ID",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Indonesian",
+    "languageID": "id",
+    "qlanguage": "Indonesian",
+    "qscript": "Latin",
+    "qcountry": "Indonesia",
+    "pack": "indonesian",
+    "version": "1.0.0",
+    "sourceVersion": "1.2",
+    "stems": "23,453",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

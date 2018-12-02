@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Chile)",
+    "variantID": "es_CL",
+    "variantName": "Chile",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Chile",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "54,060",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

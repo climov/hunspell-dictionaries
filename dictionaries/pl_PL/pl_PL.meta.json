@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Polish",
+    "variantID": "pl_PL",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Polish",
+    "languageID": "pl",
+    "qlanguage": "Polish",
+    "qscript": "Latin",
+    "qcountry": "Poland",
+    "pack": "polish",
+    "version": "1.0.0",
+    "sourceVersion": "2014-07-16",
+    "stems": "299,559",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

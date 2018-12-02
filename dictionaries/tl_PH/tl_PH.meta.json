@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Tagalog",
+    "variantID": "tl_PH",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Tagalog",
+    "languageID": "tl",
+    "qlanguage": "Tagalog",
+    "qscript": "Latin",
+    "qcountry": "Philipines",
+    "pack": "tagalog",
+    "version": "1.0.0",
+    "sourceVersion": "0.02 (2004)",
+    "stems": "14,298",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

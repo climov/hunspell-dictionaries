@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Laothian",
+    "variantID": "lo_LA",
+    "variantName": "",
+    "defaultPreset": "lao",
+    "isDefault": true,
+    "languageName": "Laothian",
+    "languageID": "lo",
+    "qlanguage": "Lao",
+    "qscript": "Lao",
+    "qcountry": "Laos",
+    "pack": "lao",
+    "version": "1.0.0",
+    "sourceVersion": "0.1 (2013.11.21)",
+    "stems": "11,206",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

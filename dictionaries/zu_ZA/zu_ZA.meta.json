@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Zulu",
+    "variantID": "zu_ZA",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Zulu",
+    "languageID": "zu",
+    "qlanguage": "Zulu",
+    "qscript": "Latin",
+    "qcountry": "SouthAfrica",
+    "pack": "zulu",
+    "version": "1.0.0",
+    "sourceVersion": "2009",
+    "stems": "108,900",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

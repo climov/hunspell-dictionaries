@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Bulgarian",
+    "variantID": "bg_BG",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Bulgarian",
+    "languageID": "bg",
+    "qlanguage": "Bulgarian",
+    "qscript": "Cyrillic",
+    "qcountry": "Bulgaria",
+    "pack": "bulgarian",
+    "version": "1.0.0",
+    "sourceVersion": "2010",
+    "stems": "78,233",
+    "source": "worm",
+    "dictType": "hs"
+}

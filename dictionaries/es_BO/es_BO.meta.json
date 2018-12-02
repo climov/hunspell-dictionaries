@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Bolivia)",
+    "variantID": "es_BO",
+    "variantName": "Bolivia",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Bolivia",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,794",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

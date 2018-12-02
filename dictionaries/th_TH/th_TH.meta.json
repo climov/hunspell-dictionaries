@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Thai",
+    "variantID": "th_TH",
+    "variantName": "",
+    "defaultPreset": "thai",
+    "isDefault": true,
+    "languageName": "Thai",
+    "languageID": "th",
+    "qlanguage": "Thai",
+    "qscript": "Thai",
+    "qcountry": "Thailand",
+    "pack": "thai",
+    "version": "1.0.0",
+    "sourceVersion": "0.2 (2005.05.30)",
+    "stems": "38,869",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Kiswahili (Kenya)",
+    "variantID": "sw_KE",
+    "variantName": "Kenya",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Swahili",
+    "languageID": "sw",
+    "qlanguage": "Swahili",
+    "qscript": "Latin",
+    "qcountry": "Kenya",
+    "pack": "swahili",
+    "version": "1.0.0",
+    "sourceVersion": "20040316",
+    "stems": "48,317",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

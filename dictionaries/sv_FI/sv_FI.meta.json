@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Swedish (Finland)",
+    "variantID": "sv_FI",
+    "variantName": "Finland",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Swedish",
+    "languageID": "sv",
+    "qlanguage": "Swedish",
+    "qscript": "Latin",
+    "qcountry": "Finland",
+    "pack": "swedish",
+    "version": "1.0.0",
+    "sourceVersion": "2014",
+    "stems": "145,107",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

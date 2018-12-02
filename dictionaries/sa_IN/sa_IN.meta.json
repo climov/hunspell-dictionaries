@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Sanskrit",
+    "variantID": "sa_IN",
+    "variantName": "",
+    "defaultPreset": "devanagari",
+    "isDefault": true,
+    "languageName": "Sanskrit",
+    "languageID": "sa",
+    "qlanguage": "Sanskrit",
+    "qscript": "Devanagari",
+    "qcountry": "India",
+    "pack": "devanagari",
+    "version": "1.0.0",
+    "sourceVersion": "1.1 (27/AGO/2011)",
+    "stems": "3,063",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

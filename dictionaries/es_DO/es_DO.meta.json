@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (DO)",
+    "variantID": "es_DO",
+    "variantName": "Dominican Republic",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "DominicanRepublic",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,493",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

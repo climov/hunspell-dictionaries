@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Irish",
+    "variantID": "ga_IE",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Irish",
+    "languageID": "ga",
+    "qlanguage": "Irish",
+    "qscript": "Latin",
+    "qcountry": "Ireland",
+    "pack": "irish",
+    "version": "1.0.0",
+    "sourceVersion": "2008",
+    "stems": "101,388",
+    "source": "worm",
+    "dictType": "hs"
+}

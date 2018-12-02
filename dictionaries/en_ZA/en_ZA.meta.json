@@ -1,0 +1,18 @@
+{
+    "variantFullName": "English (ZA)",
+    "variantID": "en_ZA",
+    "variantName": "South Africa",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "English",
+    "languageID": "en",
+    "qlanguage": "English",
+    "qscript": "Latin",
+    "qcountry": "SouthAfrica",
+    "pack": "english",
+    "version": "1.0.0",
+    "sourceVersion": "1.18 (11/04/05)",
+    "stems": "53,541",
+    "source": "worm",
+    "dictType": "hs"
+}

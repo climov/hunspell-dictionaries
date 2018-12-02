@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Akan",
+    "variantID": "ak_GH",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Akan",
+    "languageID": "ak",
+    "qlanguage": "Akan",
+    "qscript": "Latin",
+    "qcountry": "Ghana",
+    "pack": "akan",
+    "version": "1.0.0",
+    "sourceVersion": "0.1 (2006)",
+    "stems": "5,007",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

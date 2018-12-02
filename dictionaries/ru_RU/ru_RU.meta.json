@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Russian",
+    "variantID": "ru_RU",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Russian",
+    "languageID": "ru",
+    "qlanguage": "Russian",
+    "qscript": "Cyrillic",
+    "qcountry": "Russia",
+    "pack": "basic",
+    "version": "1.0.0",
+    "sourceVersion": "0.99g5 (2009-06-03)",
+    "stems": "146,235",
+    "source": "worm",
+    "dictType": "hs"
+}

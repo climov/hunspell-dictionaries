@@ -1,0 +1,18 @@
+{
+    "variantFullName": "German (AT)",
+    "variantID": "de_AT",
+    "variantName": "Austria",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "German",
+    "languageID": "de",
+    "qlanguage": "German",
+    "qscript": "Latin",
+    "qcountry": "Austria",
+    "pack": "german",
+    "version": "1.0.0",
+    "sourceVersion": "20161207",
+    "stems": "76,033",
+    "source": "worm",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Tajik",
+    "variantID": "tg_TJ",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Tajik",
+    "languageID": "tg",
+    "qlanguage": "Tajik",
+    "qscript": "Cyrillic",
+    "qcountry": "Tajikistan",
+    "pack": "tajik",
+    "version": "1.0.0",
+    "sourceVersion": "1.0.0 (2014)",
+    "stems": "68,665",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

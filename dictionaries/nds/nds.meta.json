@@ -1,0 +1,18 @@
+{
+    "variantFullName": "German (Low Saxon)",
+    "variantID": "nds",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "German (Low Saxon)",
+    "languageID": "nds",
+    "qlanguage": "LowGerman",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "german",
+    "version": "1.0.0",
+    "sourceVersion": "0.1 (2004-2014)",
+    "stems": "9,543",
+    "source": "worm",
+    "dictType": "hs"
+}

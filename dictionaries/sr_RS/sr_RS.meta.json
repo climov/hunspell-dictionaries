@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Serbian",
+    "variantID": "sr_RS",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Serbian",
+    "languageID": "sr",
+    "qlanguage": "Serbian",
+    "qscript": "Cyrillic",
+    "qcountry": "Serbia",
+    "pack": "serbian",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "263,909",
+    "source": "worm",
+    "dictType": "hs"
+}

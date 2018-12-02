@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Amharic",
+    "variantID": "am_ET",
+    "variantName": "",
+    "defaultPreset": "ethiopic",
+    "isDefault": true,
+    "languageName": "Amharic",
+    "languageID": "am",
+    "qlanguage": "Amharic",
+    "qscript": "Ethiopic",
+    "qcountry": "Ethiopia",
+    "pack": "amharic",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "175,116",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

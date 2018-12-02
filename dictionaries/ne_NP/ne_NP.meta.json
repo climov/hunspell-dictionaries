@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Nepali",
+    "variantID": "ne_NP",
+    "variantName": "",
+    "defaultPreset": "devanagari",
+    "isDefault": true,
+    "languageName": "Nepali",
+    "languageID": "ne",
+    "qlanguage": "Nepali",
+    "qscript": "Devanagari",
+    "qcountry": "Nepal",
+    "pack": "devanagari",
+    "version": "1.0.0",
+    "sourceVersion": "2.1 2008-04-25",
+    "stems": "36,827",
+    "source": "worm",
+    "dictType": "hs"
+}

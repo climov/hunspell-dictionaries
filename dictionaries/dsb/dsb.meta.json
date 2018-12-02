@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Lower Sorbian",
+    "variantID": "dsb",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Lower Sorbian",
+    "languageID": "dsb",
+    "qlanguage": "LowerSorbian",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "sorbian",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "84,503",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

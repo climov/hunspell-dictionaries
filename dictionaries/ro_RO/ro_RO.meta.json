@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Romanian",
+    "variantID": "ro_RO",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Romanian",
+    "languageID": "ro",
+    "qlanguage": "Romanian",
+    "qscript": "Latin",
+    "qcountry": "Romania",
+    "pack": "romanian",
+    "version": "1.0.0",
+    "sourceVersion": "3.3.10",
+    "stems": "181,357",
+    "source": "worm",
+    "dictType": "hs"
+}

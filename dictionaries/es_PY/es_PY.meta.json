@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Paraguay)",
+    "variantID": "es_PY",
+    "variantName": "Paraguay",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Paraguay",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "52,561",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

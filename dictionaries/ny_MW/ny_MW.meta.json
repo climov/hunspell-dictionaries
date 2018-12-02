@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Nyanja",
+    "variantID": "ny_MW",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Nyanja",
+    "languageID": "ny",
+    "qlanguage": "Nyanja",
+    "qscript": "Latin",
+    "qcountry": "Malawi",
+    "pack": "nyanja",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "5,778",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

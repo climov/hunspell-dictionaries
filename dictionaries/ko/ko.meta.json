@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Korean",
+    "variantID": "ko",
+    "variantName": "",
+    "defaultPreset": "korean",
+    "isDefault": true,
+    "languageName": "Korean",
+    "languageID": "ko",
+    "qlanguage": "Korean",
+    "qscript": "Korean",
+    "qcountry": "",
+    "pack": "korean",
+    "version": "1.0.0",
+    "sourceVersion": "0.6.2",
+    "stems": "497,712",
+    "source": "worm",
+    "dictType": "hs"
+}

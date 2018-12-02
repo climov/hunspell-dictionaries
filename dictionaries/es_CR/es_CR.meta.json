@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Costa Rica)",
+    "variantID": "es_CR",
+    "variantName": "Costa Rica",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "CostaRica",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,613",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

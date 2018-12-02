@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Slovenian",
+    "variantID": "sl_SI",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Slovenian",
+    "languageID": "sl",
+    "qlanguage": "Slovenian",
+    "qscript": "Latin",
+    "qcountry": "Slovenia",
+    "pack": "slovenian",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "246,856",
+    "source": "worm",
+    "dictType": "hs"
+}

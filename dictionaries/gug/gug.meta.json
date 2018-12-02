@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Guarani",
+    "variantID": "gug",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Guarani",
+    "languageID": "gug",
+    "qlanguage": "Guarani",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "guarani",
+    "version": "1.0.0",
+    "sourceVersion": "1.1 (Dec 2016)",
+    "stems": "4,216",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

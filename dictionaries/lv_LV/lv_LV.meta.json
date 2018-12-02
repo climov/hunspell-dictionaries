@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Latvian",
+    "variantID": "lv_LV",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Latvian",
+    "languageID": "lv",
+    "qlanguage": "Latvian",
+    "qscript": "Latin",
+    "qcountry": "Latvia",
+    "pack": "latvian",
+    "version": "1.0.0",
+    "sourceVersion": "1.2.0 (2016)",
+    "stems": "66,493",
+    "source": "worm",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Kinyarwanda",
+    "variantID": "rw_RW",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Kinyarwanda",
+    "languageID": "rw",
+    "qlanguage": "Kinyarwanda",
+    "qscript": "Latin",
+    "qcountry": "Rwanda",
+    "pack": "kinyarwanda",
+    "version": "1.0.0",
+    "sourceVersion": "2009",
+    "stems": "62",
+    "source": "worm",
+    "dictType": "hs"
+}

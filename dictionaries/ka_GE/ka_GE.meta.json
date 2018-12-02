@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Georgian",
+    "variantID": "ka_GE",
+    "variantName": "",
+    "defaultPreset": "georgian",
+    "isDefault": true,
+    "languageName": "Georgian",
+    "languageID": "ka",
+    "qlanguage": "Georgian",
+    "qscript": "Georgian",
+    "qcountry": "Georgia",
+    "pack": "georgian",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "143,020",
+    "source": "",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Malayalam",
+    "variantID": "ml_IN",
+    "variantName": "",
+    "defaultPreset": "malayalam",
+    "isDefault": true,
+    "languageName": "Malayalam",
+    "languageID": "ml",
+    "qlanguage": "Malayalam",
+    "qscript": "Malayalam",
+    "qcountry": "India",
+    "pack": "malayalam",
+    "version": "1.0.0",
+    "sourceVersion": "1.0.0 (2009-08-08)",
+    "stems": "142,591",
+    "source": "",
+    "dictType": "hs"
+}

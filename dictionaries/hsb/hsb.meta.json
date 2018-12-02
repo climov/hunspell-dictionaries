@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Upper Sorbian",
+    "variantID": "hsb",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Upper Sorbian",
+    "languageID": "hsb",
+    "qlanguage": "UpperSorbian",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "sorbian",
+    "version": "1.0.0",
+    "sourceVersion": "0.0.20060327.3",
+    "stems": "42,107",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

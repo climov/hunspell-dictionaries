@@ -1,0 +1,155 @@
+Language Variant,Variant ID,Short Name,Default Preset,Default,Base Language,Base ID,Q::Language,Q::Script,Q::Country,Pack,Version,Source Version,Stems,Source
+variantFullName,variantID,variantName,defaultPreset,isDefault,languageName,languageID,qlanguage,qscript,qcountry,pack,version,sourceVersion,stems,source
+Afrikaans,af_ZA,,latin,y,Afrikaans,af,Afrikaans,Latin,SouthAfrica,afrikaans,1.0.0,2003,"188,366",elasticsearch
+Akan,ak_GH,,latin,y,Akan,ak,Akan,Latin,Ghana,akan,1.0.0,0.1 (2006),"5,007",elasticsearch
+Albanian,sq_AL,,latin,y,Albanian,sq,Albanian,Latin,Albania,albanian,1.0.0,1.6.4 (15.07.2011),"229,505",elasticsearch
+Amharic,am_ET,,ethiopic,y,Amharic,am,Amharic,Ethiopic,Ethiopia,amharic,1.0.0,,"175,116",elasticsearch
+Arabic,ar,,arabic,y,Arabic,ar,Arabic,Arabic,,arabic,1.0.0,3.5.2014-11-08,"465,929",ayaspell
+Aragonese,an_ES,,latin,y,Aragonese,an,Aragonese,Latin,Spain,aragonese,1.0.0,0.2 (beta) 6/11/2011,"20,851",elasticsearch
+Armenian (Eastern),hy_AM-arevela,Eastern,armenian,y,Armenian,hy,Armenian,Armenian,Armenia,armenian,1.0.0,,"67,875",worm
+Armenian (Western),hy_AM-arevmda,Western,armenian,n,Armenian,hy,Armenian,Armenian,Armenia,armenian,1.0.0,,"68,594",worm
+Azerbaijani (Latin),az_AZ-Latn,Latin,latin,y,Azerbaijani,az,Azerbaijani,Latin,Azerbaijan,azerbaijani,1.0.0,2004,"19,131",elasticsearch
+Basque,eu,,latin,y,Basque,eu,Basque,Latin,,basque,1.0.0,,"142,302",worm
+Belarusian (Classic),be_BY-classic,Classic,cyrillic,n,Belarusian,be,Belarusian,Cyrillic,Belarus,belarusian,1.0.0,0.01,"1,566,661",elasticsearch
+Belarusian,be_BY,,cyrillic,y,Belarusian,be,Belarusian,Cyrillic,Belarus,belarusian,1.0.0,0.56 (2012),"83,365",elasticsearch
+Bengali/Bangla,bn_BD,,begali,y,Bengali/Bangla,bn,Bengali,Bengali,Bangladesh,bengali,1.0.0,0.08 (2012-01-04),"503,573",elasticsearch
+Bosnian,bs_BA,,latin,y,Bosnian,bs,Bosnian,Latin,Bosnia,bosnian,1.0.0,,"30,542",documentfoundation
+Breton,br_FR,,latin,y,Breton,br,Breton,Latin,France,breton,1.0.0,0.15 (2015.09.24),"464,703",worm
+Bulgarian,bg_BG,,cyrillic,y,Bulgarian,bg,Bulgarian,Cyrillic,Bulgaria,bulgarian,1.0.0,2010,"78,233",worm
+Catalan,ca_ES,,latin,y,Catalan,ca,Catalan,Latin,Spain,catalan,1.0.0,3.0.2 (24-05-2017),"133,380",worm
+Catalan (Valencia),ca_ES-valencia,Valencia,latin,n,Catalan,ca,Catalan,Latin,Spain,catalan,1.0.0,3.0.2 (24-04-2017),"133,492",worm
+Chinese (CN),zh_CN,Simplified,zh_CN,y,Chinese,zh,Chinese,Han_CN,China,chinese_cn,1.0.0,,,
+Chinese (TW),zh_TW,Traditional,zh_TW,n,Chinese,zh,Chinese,Han_TW,Taiwan,chinese_tw,1.0.0,,,
+Coptic (Bohairic),cop_EG,,coptic,y,Coptic (Bohairic),cop,Coptic,Coptic,Egypt,coptic,1.0.0,0.2 (Dec. 2006),"7,000",elasticsearch
+Croatian,hr_HR,,latin,y,Croatian,hr,Croatian,Latin,Croatia,croatian,1.0.0,2003,"215,956",worm
+Czech,cs_CZ,,latin,y,Czech,cs,Czech,Latin,Czechia,czech,1.0.0,2008-05-18,"166,565",worm
+Danish,da_DK,,latin,y,Danish,da,Danish,Latin,Denmark,danish,1.0.0,1.4 (2018-07-15),"149,991",worm
+Dutch,nl_NL,,latin,y,Dutch,nl,Dutch,Latin,Netherlands,dutch,1.0.0,2.20Gb (2011-08-23),"173,578",worm
+Dzongkha,dz_BT,,tibetan,y,Dzongkha,dz,Dzongkha,Tibetan,Bhutan,tibetan,1.0.0,0.1.0 (2017-08-27),404,
+English (AU),en_AU,Australia,latin,n,English,en,English,Latin,Australia,english,1.0.0,2017.01.22,"49,347",worm
+English (CA),en_CA,Canada,latin,n,English,en,English,Latin,Canada,english,1.0.0,2017.01.22,"49,155",worm
+English (UK),en_GB,Great Britain,latin,n,English,en,English,Latin,UnitedKingdom,english,1.0.0,2017.01.22,"49,195",worm
+English (NZ),en_NZ,New Zealand,latin,n,English,en,English,Latin,NewZealand,english,1.0.0,1.14 (15/12/02),"47,141",elasticsearch
+English (ZA),en_ZA,South Africa,latin,n,English,en,English,Latin,SouthAfrica,english,1.0.0,1.18 (11/04/05),"53,541",worm
+English (US),en_US,United States,latin,y,English,en,English,Latin,UnitedStates,basic,1.0.0,2017.01.22,"48,977",worm
+Esperanto,eo,,latin,y,Esperanto,eo,Esperanto,Latin,,esperanto,1.0.0,2010-01,"29,905",worm
+Estonian,et_EE,,latin,y,Estonian,et,Estonian,Latin,Estonia,estonian,1.0.0,1.0 (June 2004),"282,173",worm
+Faeroese,fo_FO,,latin,y,Faeroese,fo,Faroese,Latin,FaroeIslands,faeroese,1.0.0,2011,"121,832",worm
+French (Classic),fr_FR-classic,Classic,latin,n,French,fr,French,Latin,France,french,1.0.0,6.3,"80,863",worm
+French (Combined),fr_FR-combined,Combined,latin,n,French,fr,French,Latin,France,french,1.0.0,4.2,"70,842",freeoffice
+French,fr_FR,Recommended,latin,y,French,fr,French,Latin,France,basic,1.0.0,4.2,"67,498",freeoffice
+French (Reformed),fr_FR-reformed,Reformed,latin,n,French,fr,French,Latin,France,french,1.0.0,4.2,"67,397",freeoffice
+Frisian,fy_NL,,latin,y,Frisian,fy,Frisian,Latin,Netherlands,frisian,1.0.0,20160722,"299,502",worm
+Friulian,fur,,latin,y,Friulian,fur,Friulian,Latin,Italy,friulian,1.0.0,,"36,320",worm
+Galician,gl,,latin,y,Galician,gl,Galician,Latin,,galician,1.0.0,,"85,974",worm
+Georgian,ka_GE,,georgian,y,Georgian,ka,Georgian,Georgian,Georgia,georgian,1.0.0,,"143,020",
+German,de_DE,Germany,latin,y,German,de,German,Latin,Germany,basic,1.0.0,20161207,"75,767",worm
+German (Classic),de_DE-1901,Classic,latin,n,German,de,German,Latin,Germany,german,1.0.0,2014-02-14,"235,298",elasticsearch
+German (AT),de_AT,Austria,latin,n,German,de,German,Latin,Austria,german,1.0.0,20161207,"76,033",worm
+German (CH),de_CH,Switzerland,latin,n,German,de,German,Latin,Switzerland,german,1.0.0,20161207,"75,865",worm
+German (Low Saxon),nds,,latin,y,German (Low Saxon),nds,LowGerman,Latin,,german,1.0.0,0.1 (2004-2014),"9,543",worm
+Greek,el_GR,,greek,y,Greek,el,Greek,Greek,Greece,greek,1.0.0,0.9 (14/03/2015),"828,806",worm
+Greek (Polytonic),el_GR-polyton,Polytonic,greek,n,Greek,el,Greek,Greek,Greece,greek,1.0.0,10/7/2016,"707,806",worm
+Guarani,gug,,latin,y,Guarani,gug,Guarani,Latin,,guarani,1.0.0,1.1 (Dec 2016),"4,216",documentfoundation
+Gujarati,gu_IN,,gujarati,y,Gujarati,gu,Gujarati,Gujarati,India,gujarati,1.0.0,,"168,957",elasticsearch
+Hausa,ha_GH,,latin,y,Hausa,ha,Hausa,Latin,Ghana,hausa,1.0.0,,"37,713",elasticsearch
+Hebrew,he_IL,,hebrew,y,Hebrew,he,Hebrew,Hebrew,Israel,hebrew,1.0.0,2017,"341,585",worm
+Hindi,hi_IN,,devanagari,y,Hindi,hi,Hindi,Devanagari,India,devanagari,1.0.0,,"111,120",elasticsearch
+Hungarian,hu_HU,,latin,y,Hungarian,hu,Hungarian,Latin,Hungary,hungarian,1.0.0,1.6,"89,106",worm
+Icelandic,is_IS,,latin,y,Icelandic,is,Icelandic,Latin,Iceland,icelandic,1.0.0,,"193,170",worm
+Indonesian,id_ID,,latin,y,Indonesian,id,Indonesian,Latin,Indonesia,indonesian,1.0.0,1.2,"23,453",elasticsearch
+Interlingua,ia,,latin,y,Interlingua,ia,Interlingua,Latin,,interlingua,1.0.0,2014-05-30,"51,603",worm
+Interlingue,ie,,latin,y,Interlingue,ie,Interlingue,Latin,,interlingue,1.0.0,0.6 (2018),"23,021",worm
+Irish,ga_IE,,latin,y,Irish,ga,Irish,Latin,Ireland,irish,1.0.0,2008,"101,388",worm
+Italian,it_IT,,latin,y,Italian,it,Italian,Latin,Italy,italian,1.0.0,5.0 (10-Feb-2016),"95,438",worm
+Japanese,jp_JP,,japanese,y,Japanese,jp,Japanese,Japanese,Japan,japanese,1.0.0,,,
+Kannada,kn_ID,,kannada,y,Kannada,kn,Kannada,Kannada,India,kannada,1.0.0,2013-11-24,"10,000",elasticsearch
+Kazakh,kk_KZ,,cyrillic,y,Kazakh,kk,Kazakh,Cyrillic,Kazakhstan,kazakh,1.0.0,0.2,"54,063",elasticsearch
+Khmer,km_KH,,khmer,y,Khmer,km,Cambodian,Khmer,Cambodia,khmer,1.0.0,1.82,"76,895",
+Kinyarwanda,rw_RW,,latin,y,Kinyarwanda,rw,Kinyarwanda,Latin,Rwanda,kinyarwanda,1.0.0,2009,62,worm
+Klingon,tlh-Latn,,latin,y,Klingon,tlh,,Latin,,klingon,1.0.0,1.0.1 (2018-11-06),"3,805",
+Klingon (pIqaD),tlh,pIqaD,pIqaD,n,Klingon,tlh,,x-pIqaD,,klingon,1.0.0,1.0.1 (2018-11-06),"3,805",
+Korean,ko,,korean,y,Korean,ko,Korean,Korean,,korean,1.0.0,0.6.2,"497,712",worm
+Kurdish,ku_TR,,latin,y,Kurdish,ku,Kurdish,Latin,Turkey,kurdish,1.0.0,0.20,"4,759",elasticsearch
+Laothian,lo_LA,,lao,y,Laothian,lo,Lao,Lao,Laos,lao,1.0.0,0.1 (2013.11.21),"11,206",documentfoundation
+Latgalian,ltg,,latin,y,Latgalian,ltg,Latgalian,Latin,,latgalian,1.0.0,0.1.5,"8,459",worm
+Latin (Universal),la,Universal,latin,y,Latin,la,Latin,Latin,,latin,1.0.0,3.1 (2013-03-31),"136,255",worm
+Latin (Classic),la-classic,Classic,latin,n,Latin,la,Latin,Latin,,latin,1.0.0,3.1 (2013-03-31),"129,290",elasticsearch
+Latvian,lv_LV,,latin,y,Latvian,lv,Latvian,Latin,Latvia,latvian,1.0.0,1.2.0 (2016),"66,493",worm
+Lingala,ln_CD,,latin,y,Lingala,ln,Lingala,Latin,CongoKinshasa,lingala,1.0.0,0.03,"5,194",elasticsearch
+Lithuanian,lt_LT,,latin,y,Lithuanian,lt,Lithuanian,Latin,Lithuania,lithuanian,1.0.0,2013,"83,258",worm
+Lower Sorbian,dsb,,latin,y,Lower Sorbian,dsb,LowerSorbian,Latin,,sorbian,1.0.0,,"84,503",elasticsearch
+Luxembourgish,lb_LU,,latin,y,Luxembourgish,lb,Luxembourgish,Latin,Luxembourg,luxembourgish,1.0.0,2018,"86,609",worm
+Macedonian,mk_MK,,cyrillic,y,Macedonian,mk,Macedonian,Cyrillic,Macedonia,macedonian,1.0.0,2016,"65,597",worm
+Malagasy,mg_MG,,latin,y,Malagasy,mg,Malagasy,Latin,Madagascar,malagasy,1.0.0,0.03,"16,743",elasticsearch
+Malay,ms_MY,,latin,y,Malay,ms,Malay,Latin,Malaysia,malay,1.0.0,0.1 (30/12/2004),"24,550",elasticsearch
+Malayalam,ml_IN,,malayalam,y,Malayalam,ml,Malayalam,Malayalam,India,malayalam,1.0.0,1.0.0 (2009-08-08),"142,591",
+Maltese,mt_MT,,latin,y,Maltese,mt,Maltese,Latin,Malta,maltese,1.0.0,0.4,"824,847",freeoffice
+Maori,mi_NZ,,latin,y,Maori,mi,Maori,Latin,NewZealand,maori,1.0.0,0.9.9.20080630,"20,309",elasticsearch
+Marathi,mr_IN,,devanagari,y,Marathi,mr,Marathi,Devanagari,India,devanagari,1.0.0,,"193,618",elasticsearch
+Mongolian,mn_MN,,cyrillic,y,Mongolian,mn,Mongolian,Cyrillic,Mongolia,mongolian,1.0.0,0.06-4 (2008-07-29),"40,119",worm
+Nepali,ne_NP,,devanagari,y,Nepali,ne,Nepali,Devanagari,Nepal,devanagari,1.0.0,2.1 2008-04-25,"36,827",worm
+Norwegian (Bokmal),nb_NO,,latin,y,Norwegian (Bokmal),nb,NorwegianBokmal,Latin,Norway,norwegian,1.0.0,2.2,"322,043",worm
+Norwegian (Nynorsk),nn_NO,,latin,y,Norwegian (Nynorsk),nn,NorwegianNynorsk,Latin,Norway,norwegian,1.0.0,2.2,"214,829",worm
+Nyanja,ny_MW,,latin,y,Nyanja,ny,Nyanja,Latin,Malawi,nyanja,1.0.0,,"5,778",elasticsearch
+Occitan (Gascon),gsc_FR,,latin,y,Occitan (Gascon),gsc,Occitan,Latin,France,occitan,1.0.0,,"2,098,768",elasticsearch
+Occitan,oc_FR,,latin,y,Occitan,oc,Occitan,Latin,France,occitan,1.0.0,0.2,"53,791",elasticsearch
+Oriya,or_IN,,oriya,y,Oriya,or,Oriya,Oriya,India,oriya,1.0.0,2002,"1,029",elasticsearch
+Papiamento (AW),pap_AW,Aruba,latin,y,Papiamento,pap,Papiamento,Latin,Aruba,papiamento,1.0.0,1.0 (14-09-2011),"16,373",elasticsearch
+Papiamentu (CW),pap_CW,Curacao,latin,n,Papiamentu,pap,Papiamento,Latin,CuraSao,papiamento,1.0.0,1.0 (14-09-2011),"16,159",elasticsearch
+Persian (Farsi),fa_IR,,arabic,y,Persian (Farsi),fa,Persian,Arabic,Iran,arabic,1.0.0,1.0 (2015-12-01),"61,839",
+Polish,pl_PL,,latin,y,Polish,pl,Polish,Latin,Poland,polish,1.0.0,2014-07-16,"299,559",elasticsearch
+Portuguese (PT),pt_PT,Portugal,latin,y,Portuguese,pt,Portuguese,Latin,Portugal,basic,1.0.0,2013-10,"311,682",elasticsearch
+Portuguese (BR),pt_BR,Brazil,latin,n,Portuguese,pt,Portuguese,Latin,Brazil,portuguese,1.0.0,2013-10,"312,368",elasticsearch
+Punjabi,pa_IN,,gurmukhi,y,Punjabi,pa,Punjabi,Gurmukhi,India,punjabi,1.0.0,2005,"2,045",elasticsearch
+Quechua,qu_EC,,latin,y,Quechua,qu,Quechua,Latin,Ecuador,quechua,1.0.0,0.9,"16,692",freeoffice
+Romanian,ro_RO,,latin,y,Romanian,ro,Romanian,Latin,Romania,romanian,1.0.0,3.3.10,"181,357",worm
+Romanian (Classic),ro_RO-classic,Classic,latin,n,Romanian,ro,Romanian,Latin,Romania,romanian,1.0.0,3.3.10,"181,357",elasticsearch
+Russian,ru_RU,,cyrillic,y,Russian,ru,Russian,Cyrillic,Russia,basic,1.0.0,0.99g5 (2009-06-03),"146,235",worm
+Sanskrit,sa_IN,,devanagari,y,Sanskrit,sa,Sanskrit,Devanagari,India,devanagari,1.0.0,1.1 (27/AGO/2011),"3,063",elasticsearch
+Scottish Gaelic,gd_GB,,latin,y,Scottish Gaelic,gd,Gaelic,Latin,UnitedKingdom,gaelic,1.0.0,3.2,"330,311",worm
+Serbian,sr_RS,,cyrillic,y,Serbian,sr,Serbian,Cyrillic,Serbia,serbian,1.0.0,,"263,909",worm
+Serbian (Latin),sr_RS-Latn,Latin,latin,n,Serbian,sr,Serbian,Latin,Serbia,serbian,1.0.0,,"263,909",worm
+Sinhalese,si_LK,,sinhala,y,Sinhalese,si,Sinhala,Sinhala,SriLanka,sinhala,1.0.0,2010,"30,319",documentfoundation
+Slovak,sk_SK,,latin,y,Slovak,sk,Slovak,Latin,Slovakia,slovak,1.0.0,2.04 (2013-03-17),"247,005",worm
+Slovenian,sl_SI,,latin,y,Slovenian,sl,Slovenian,Latin,Slovenia,slovenian,1.0.0,,"246,856",worm
+Somali,so_SO,,latin,y,Somali,so,Somali,Latin,Somalia,somali,1.0.0,0.1 (06.2009),"29,639",documentfoundation
+Spanish (Spain),es_ES,Spain,latin,y,Spanish,es,Spanish,Latin,Spain,basic,1.0.0,0.7,"54,895",elasticsearch
+Spanish (Argentina),es_AR,Argentina,latin,n,Spanish,es,Spanish,Latin,Argentina,spanish,1.0.0,0.6,"54,257",freeoffice
+Spanish (Bolivia),es_BO,Bolivia,latin,n,Spanish,es,Spanish,Latin,Bolivia,spanish,1.0.0,0.6,"53,794",freeoffice
+Spanish (Chile),es_CL,Chile,latin,n,Spanish,es,Spanish,Latin,Chile,spanish,1.0.0,0.6,"54,060",freeoffice
+Spanish (Colombia),es_CO,Colombia,latin,n,Spanish,es,Spanish,Latin,Colombia,spanish,1.0.0,0.6,"54,388",freeoffice
+Spanish (Costa Rica),es_CR,Costa Rica,latin,n,Spanish,es,Spanish,Latin,CostaRica,spanish,1.0.0,0.6,"53,613",freeoffice
+Spanish (Cuba),es_CU,Cuba,latin,n,Spanish,es,Spanish,Latin,Cuba,spanish,1.0.0,0.1,"71,046",elasticsearch
+Spanish (DO),es_DO,Dominican Republic,latin,n,Spanish,es,Spanish,Latin,DominicanRepublic,spanish,1.0.0,0.6,"53,493",freeoffice
+Spanish (Ecuador),es_EC,Ecuador,latin,n,Spanish,es,Spanish,Latin,Ecuador,spanish,1.0.0,0.6,"53,644",freeoffice
+Spanish (Guatemala),es_GT,Guatemala,latin,n,Spanish,es,Spanish,Latin,Guatemala,spanish,1.0.0,0.6,"53,578",freeoffice
+Spanish (Honduras),es_HN,Honduras,latin,n,Spanish,es,Spanish,Latin,Honduras,spanish,1.0.0,0.6,"53,730",freeoffice
+Spanish (Mexico),es_MX,Mexico,latin,n,Spanish,es,Spanish,Latin,Mexico,spanish,1.0.0,0.6,"53,768",freeoffice
+Spanish (Nicaragua),es_NI,Nicaragua,latin,n,Spanish,es,Spanish,Latin,Nicaragua,spanish,1.0.0,0.6,"53,633",freeoffice
+Spanish (Panama),es_PA,Panama,latin,n,Spanish,es,Spanish,Latin,Panama,spanish,1.0.0,0.6,"53,546",freeoffice
+Spanish (Peru),es_PE,Peru,latin,n,Spanish,es,Spanish,Latin,Peru,spanish,1.0.0,0.6,"53,619",freeoffice
+Spanish (Puerto Rico),es_PR,Puerto Rico,latin,n,Spanish,es,Spanish,Latin,PuertoRico,spanish,1.0.0,0.6,"53,509",freeoffice
+Spanish (Paraguay),es_PY,Paraguay,latin,n,Spanish,es,Spanish,Latin,Paraguay,spanish,1.0.0,0.6,"52,561",freeoffice
+Spanish (El Salvador),es_SV,El Salvador,latin,n,Spanish,es,Spanish,Latin,ElSalvador,spanish,1.0.0,0.6,"53,615",freeoffice
+Spanish (Uruguay),es_UY,Uruguay,latin,n,Spanish,es,Spanish,Latin,Uruguay,spanish,1.0.0,0.6,"53,718",freeoffice
+Spanish (Venezuela),es_VE,Venezuela,latin,n,Spanish,es,Spanish,Latin,Venezuela,spanish,1.0.0,0.6,"53,696",freeoffice
+Kiswahili (Kenya),sw_KE,Kenya,latin,y,Swahili,sw,Swahili,Latin,Kenya,swahili,1.0.0,20040316,"48,317",elasticsearch
+Swahili (Tanzania),sw_TZ,Tanzania,latin,n,Swahili,sw,Swahili,Latin,Tanzania,swahili,1.0.0,1.1 (2005-08-17),"67,900",elasticsearch
+Swedish,sv_SE,,latin,y,Swedish,sv,Swedish,Latin,Sweden,swedish,1.0.0,2014,"145,291",elasticsearch
+Swedish (Finland),sv_FI,Finland,latin,n,Swedish,sv,Swedish,Latin,Finland,swedish,1.0.0,2014,"145,107",elasticsearch
+Tagalog,tl_PH,,latin,y,Tagalog,tl,Tagalog,Latin,Philipines,tagalog,1.0.0,0.02 (2004),"14,298",documentfoundation
+Tajik,tg_TJ,,cyrillic,y,Tajik,tg,Tajik,Cyrillic,Tajikistan,tajik,1.0.0,1.0.0 (2014),"68,665",elasticsearch
+Tamil,ta_IN,,tamil,y,Tamil,ta,Tamil,Tamil,India,tamil,1.0.0,0.4,"83,607",elasticsearch
+Tatar,tt_RU,,cyrillic,y,Tatar,tt,Tatar,Cyrillic,Russia,tatar,1.0.0,,"76,269",
+Telugu,te_IN,,telugu,y,Telugu,te,Telugu,Telugu,India,telugu,1.0.0,0.01-2 (2010),"125,083",elasticsearch
+Thai,th_TH,,thai,y,Thai,th,Thai,Thai,Thailand,thai,1.0.0,0.2 (2005.05.30),"38,869",documentfoundation
+Tibetan,bo,,tibetan,y,Tibetan,bo,Tibetan,Tibetan,,tibetan,1.0.0,0.4.0 (2017-08-27),378,documentfoundation
+Turkish,tr_TR,,latin,y,Turkish,tr,Turkish,Latin,Turkey,turkish,1.0.0,,"371,169",worm
+Ukrainian,uk_UA,,cyrillic,y,Ukrainian,uk,Ukrainian,Cyrillic,Ukraine,ukrainian,1.0.0,1.7.0,"126,309",worm
+Upper Sorbian,hsb,,latin,y,Upper Sorbian,hsb,UpperSorbian,Latin,,sorbian,1.0.0,0.0.20060327.3,"42,107",elasticsearch
+Urdu,ur_PK,,nastaliq,y,Urdu,ur,Urdu,Arabic,Pakistan,arabic,1.0.0,0.64,"116,381",
+Vietnamese,vi_VN,,latin,y,Vietnamese,vi,Vietnamese,Latin,Vietnam,vietnamese,1.0.0,1.0.110,"6,631",worm
+Welsh,cy_GB,,latin,y,Welsh,cy,Welsh,Latin,UnitedKingdom,welsh,1.0.0,2004,"132,201",elasticsearch
+Yiddish,yi,,hebrew,y,Yiddish,yi,Yiddish,Hebrew,,hebrew,1.0.0,,"107,937",
+Zulu,zu_ZA,,latin,y,Zulu,zu,Zulu,Latin,SouthAfrica,zulu,1.0.0,2009,"108,900",elasticsearch

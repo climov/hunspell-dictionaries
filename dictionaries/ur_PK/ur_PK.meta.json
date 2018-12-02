@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Urdu",
+    "variantID": "ur_PK",
+    "variantName": "",
+    "defaultPreset": "nastaliq",
+    "isDefault": true,
+    "languageName": "Urdu",
+    "languageID": "ur",
+    "qlanguage": "Urdu",
+    "qscript": "Arabic",
+    "qcountry": "Pakistan",
+    "pack": "arabic",
+    "version": "1.0.0",
+    "sourceVersion": "0.64",
+    "stems": "116,381",
+    "source": "",
+    "dictType": "hs"
+}

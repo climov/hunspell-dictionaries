@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Norwegian (Nynorsk)",
+    "variantID": "nn_NO",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Norwegian (Nynorsk)",
+    "languageID": "nn",
+    "qlanguage": "NorwegianNynorsk",
+    "qscript": "Latin",
+    "qcountry": "Norway",
+    "pack": "norwegian",
+    "version": "1.0.0",
+    "sourceVersion": "2.2",
+    "stems": "214,829",
+    "source": "worm",
+    "dictType": "hs"
+}

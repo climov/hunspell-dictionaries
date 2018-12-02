@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Estonian",
+    "variantID": "et_EE",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Estonian",
+    "languageID": "et",
+    "qlanguage": "Estonian",
+    "qscript": "Latin",
+    "qcountry": "Estonia",
+    "pack": "estonian",
+    "version": "1.0.0",
+    "sourceVersion": "1.0 (June 2004)",
+    "stems": "282,173",
+    "source": "worm",
+    "dictType": "hs"
+}

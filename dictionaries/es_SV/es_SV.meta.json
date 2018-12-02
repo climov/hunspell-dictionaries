@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (El Salvador)",
+    "variantID": "es_SV",
+    "variantName": "El Salvador",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "ElSalvador",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,615",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Argentina)",
+    "variantID": "es_AR",
+    "variantName": "Argentina",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Argentina",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "54,257",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

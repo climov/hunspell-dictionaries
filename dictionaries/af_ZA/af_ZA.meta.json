@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Afrikaans",
+    "variantID": "af_ZA",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Afrikaans",
+    "languageID": "af",
+    "qlanguage": "Afrikaans",
+    "qscript": "Latin",
+    "qcountry": "SouthAfrica",
+    "pack": "afrikaans",
+    "version": "1.0.0",
+    "sourceVersion": "2003",
+    "stems": "188,366",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

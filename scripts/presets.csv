@@ -1,0 +1,38 @@
+Preset ID,Preset,Script,Typewriter,Serif,Sans,Title,Preinstalled
+id,name,qscript,typewriterFont,serifFont,sansFont,titleFont,preinstalled
+adlam,Adlam,Adlam,Noto Sans Adlam,Noto Sans Adlam,Noto Sans Adlam,Noto Sans Adlam,n
+arabic,Arabic,Arabic,Noto Sans Arabic,Noto Sans Arabic,Noto Sans Arabic,Noto Sans Arabic,n
+kufi,Kufi,Arabic,Noto Kufi Arabic,Noto Kufi Arabic,Noto Kufi Arabic,Noto Kufi Arabic,n
+naskh,Naskh,Arabic,Noto Naskh Arabic,Noto Naskh Arabic,Noto Naskh Arabic,Noto Naskh Arabic,n
+nastaliq,Nastaliq,Arabic,Noto Nastaliq Urdu,Noto Nastaliq Urdu,Noto Nastaliq Urdu,Noto Nastaliq Urdu,n
+armenian,Armenian,Armenian,Noto Serif Armenian,Noto Serif Armenian,Noto Sans Armenian,Noto Sans Armenian,n
+balinese,Balinese,Balinese,Noto Sans Balinese,Noto Sans Balinese,Noto Sans Balinese,Noto Sans Balinese,n
+bengali,Bengali,Bengali,Noto Serif Bengali,Noto Serif Bengali,Noto Sans Bengali,Noto Sans Bengali,n
+coptic,Coptic,Coptic,Noto Sans Coptic,Noto Sans Coptic,Noto Sans Coptic,Noto Sans Coptic,n
+cyrillic,Cyrillic,Cyrillic,Causality Courier,Times New Roman,Arial,Arial,y
+devanagari,Devanagari,Devanagari,Noto Serif Devanagari,Noto Serif Devanagari,Noto Sans Devanagari,Noto Sans Devanagari,n
+ethiopic,Ethiopic,Ethiopic,Noto Serif Ethiopic,Noto Serif Ethiopic,Noto Sans Ethiopic,Noto Sans Ethiopic,n
+georgian,Georgian,Georgian,Noto Serif Georgian,Noto Serif Georgian,Noto Sans Georgian,Noto Sans Georgian,n
+greek,Greek,Greek,Causality Courier,Times New Roman,Arial,Arial,y
+gujarati,Gujarati,Gujarati,Noto Serif Gujarati,Noto Serif Gujarati,Noto Sans Gujarati,Noto Sans Gujarati,n
+gurmukhi,Gurmukhi,Gurmukhi,Noto Sans Gurmukhi,Noto Sans Gurmukhi,Noto Sans Gurmukhi,Noto Sans Gurmukhi,n
+zh_CN,Simplified Chinese,Han_CN,Noto Serif CJK SC,Noto Serif CJK SC,Noto Sans CJK SC,Noto Sans CJK SC,n
+zh_TW,Traditional Chinese,Han_TW,Noto Serif CJK TC,Noto Serif CJK TC,Noto Sans CJK TC,Noto Sans CJK TC,n
+hebrew,Hebrew,Hebrew,Noto Serif Hebrew,Noto Serif Hebrew,Noto Sans Hebrew,Noto Sans Hebrew,n
+japanese,Japanese,Japanese,Noto Serif CJK JP,Noto Serif CJK JP,Noto Sans CJK JP,Noto Sans CJK JP,n
+javanese,Javanese,Javanese,Noto Sans Javanese,Noto Sans Javanese,Noto Sans Javanese,Noto Sans Javanese,n
+kannada,Kannada,Kannada,Noto Serif Kannada,Noto Serif Kannada,Noto Sans Kannada,Noto Sans Kannada,n
+khmer,Khmer,Khmer,Noto Serif Khmer,Noto Serif Khmer,Noto Sans Khmer,Noto Sans Khmer,n
+korean,Korean,Korean,Noto Serif CJK KR,Noto Serif CJK KR,Noto Sans CJK KR,Noto Sans CJK KR,n
+lao,Lao,Lao,Noto Serif Lao,Noto Serif Lao,Noto Sans Lao,Noto Sans Lao,n
+latin,Latin,Latin,Causality Courier,Times New Roman,Arial,Arial,y
+malayalam,Malayalam,Malayalam,Noto Serif Malayalam,Noto Serif Malayalam,Noto Sans Malayalam,Noto Sans Malayalam,n
+myanmar,Myanmar,Myanmar,Noto Serif Myanmar,Noto Serif Myanmar,Noto Sans Myanmar,Noto Sans Myanmar,n
+oriya,Oriya,Oriya,Noto Sans Oriya,Noto Sans Oriya,Noto Sans Oriya,Noto Sans Oriya,n
+pIqaD,pIqaD,x-pIqaD,Klingon pIqaD HaSta,Klingon pIqaD HaSta,pIqaD qolqoS,Klingon pIqaD HaSta,n
+sinhala,Sinhala,Sinhala,Noto Serif Sinhala,Noto Serif Sinhala,Noto Sans Sinhala,Noto Sans Sinhala,n
+sundanese,Sundanese,Sundanese,Noto Sans Sundanese,Noto Sans Sundanese,Noto Sans Sundanese,Noto Sans Sundanese,n
+tamil,Tamil,Tamil,Noto Serif Tamil,Noto Serif Tamil,Noto Sans Tamil,Noto Sans Tamil,n
+telugu,Telugu,Telugu,Noto Serif Telugu,Noto Serif Telugu,Noto Sans Telugu,Noto Sans Telugu,n
+thai,Thai,Thai,Noto Serif Thai,Noto Serif Thai,Noto Sans Thai,Noto Sans Thai,n
+tibetan,Tibetan,Tibetan,Noto Sans Tibetan,Noto Sans Tibetan,Noto Sans Tibetan,Noto Sans Tibetan,n

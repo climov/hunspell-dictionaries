@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Maori",
+    "variantID": "mi_NZ",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Maori",
+    "languageID": "mi",
+    "qlanguage": "Maori",
+    "qscript": "Latin",
+    "qcountry": "NewZealand",
+    "pack": "maori",
+    "version": "1.0.0",
+    "sourceVersion": "0.9.9.20080630",
+    "stems": "20,309",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

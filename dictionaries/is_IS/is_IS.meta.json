@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Icelandic",
+    "variantID": "is_IS",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Icelandic",
+    "languageID": "is",
+    "qlanguage": "Icelandic",
+    "qscript": "Latin",
+    "qcountry": "Iceland",
+    "pack": "icelandic",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "193,170",
+    "source": "worm",
+    "dictType": "hs"
+}

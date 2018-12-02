@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Khmer",
+    "variantID": "km_KH",
+    "variantName": "",
+    "defaultPreset": "khmer",
+    "isDefault": true,
+    "languageName": "Khmer",
+    "languageID": "km",
+    "qlanguage": "Cambodian",
+    "qscript": "Khmer",
+    "qcountry": "Cambodia",
+    "pack": "khmer",
+    "version": "1.0.0",
+    "sourceVersion": "1.82",
+    "stems": "76,895",
+    "source": "",
+    "dictType": "hs"
+}

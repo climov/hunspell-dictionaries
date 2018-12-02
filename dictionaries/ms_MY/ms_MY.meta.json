@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Malay",
+    "variantID": "ms_MY",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Malay",
+    "languageID": "ms",
+    "qlanguage": "Malay",
+    "qscript": "Latin",
+    "qcountry": "Malaysia",
+    "pack": "malay",
+    "version": "1.0.0",
+    "sourceVersion": "0.1 (30/12/2004)",
+    "stems": "24,550",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

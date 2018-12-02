@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Arabic",
+    "variantID": "ar",
+    "variantName": "",
+    "defaultPreset": "arabic",
+    "isDefault": true,
+    "languageName": "Arabic",
+    "languageID": "ar",
+    "qlanguage": "Arabic",
+    "qscript": "Arabic",
+    "qcountry": "",
+    "pack": "arabic",
+    "version": "1.0.0",
+    "sourceVersion": "3.5.2014-11-08",
+    "stems": "465,929",
+    "source": "ayaspell",
+    "dictType": "hs"
+}

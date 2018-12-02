@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Ukrainian",
+    "variantID": "uk_UA",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Ukrainian",
+    "languageID": "uk",
+    "qlanguage": "Ukrainian",
+    "qscript": "Cyrillic",
+    "qcountry": "Ukraine",
+    "pack": "ukrainian",
+    "version": "1.0.0",
+    "sourceVersion": "1.7.0",
+    "stems": "126,309",
+    "source": "worm",
+    "dictType": "hs"
+}

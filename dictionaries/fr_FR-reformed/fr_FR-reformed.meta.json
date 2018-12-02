@@ -1,0 +1,18 @@
+{
+    "variantFullName": "French (Reformed)",
+    "variantID": "fr_FR-reformed",
+    "variantName": "Reformed",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "French",
+    "languageID": "fr",
+    "qlanguage": "French",
+    "qscript": "Latin",
+    "qcountry": "France",
+    "pack": "french",
+    "version": "1.0.0",
+    "sourceVersion": "4.2",
+    "stems": "67,397",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

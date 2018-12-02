@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Slovak",
+    "variantID": "sk_SK",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Slovak",
+    "languageID": "sk",
+    "qlanguage": "Slovak",
+    "qscript": "Latin",
+    "qcountry": "Slovakia",
+    "pack": "slovak",
+    "version": "1.0.0",
+    "sourceVersion": "2.04 (2013-03-17)",
+    "stems": "247,005",
+    "source": "worm",
+    "dictType": "hs"
+}

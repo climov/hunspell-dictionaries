@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Hindi",
+    "variantID": "hi_IN",
+    "variantName": "",
+    "defaultPreset": "devanagari",
+    "isDefault": true,
+    "languageName": "Hindi",
+    "languageID": "hi",
+    "qlanguage": "Hindi",
+    "qscript": "Devanagari",
+    "qcountry": "India",
+    "pack": "devanagari",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "111,120",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

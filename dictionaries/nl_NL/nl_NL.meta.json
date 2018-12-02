@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Dutch",
+    "variantID": "nl_NL",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Dutch",
+    "languageID": "nl",
+    "qlanguage": "Dutch",
+    "qscript": "Latin",
+    "qcountry": "Netherlands",
+    "pack": "dutch",
+    "version": "1.0.0",
+    "sourceVersion": "2.20Gb (2011-08-23)",
+    "stems": "173,578",
+    "source": "worm",
+    "dictType": "hs"
+}

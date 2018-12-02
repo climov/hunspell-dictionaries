@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Malagasy",
+    "variantID": "mg_MG",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Malagasy",
+    "languageID": "mg",
+    "qlanguage": "Malagasy",
+    "qscript": "Latin",
+    "qcountry": "Madagascar",
+    "pack": "malagasy",
+    "version": "1.0.0",
+    "sourceVersion": "0.03",
+    "stems": "16,743",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

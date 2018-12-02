@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Aragonese",
+    "variantID": "an_ES",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Aragonese",
+    "languageID": "an",
+    "qlanguage": "Aragonese",
+    "qscript": "Latin",
+    "qcountry": "Spain",
+    "pack": "aragonese",
+    "version": "1.0.0",
+    "sourceVersion": "0.2 (beta) 6/11/2011",
+    "stems": "20,851",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

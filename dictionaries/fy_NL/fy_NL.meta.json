@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Frisian",
+    "variantID": "fy_NL",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Frisian",
+    "languageID": "fy",
+    "qlanguage": "Frisian",
+    "qscript": "Latin",
+    "qcountry": "Netherlands",
+    "pack": "frisian",
+    "version": "1.0.0",
+    "sourceVersion": "20160722",
+    "stems": "299,502",
+    "source": "worm",
+    "dictType": "hs"
+}

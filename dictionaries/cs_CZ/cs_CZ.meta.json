@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Czech",
+    "variantID": "cs_CZ",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Czech",
+    "languageID": "cs",
+    "qlanguage": "Czech",
+    "qscript": "Latin",
+    "qcountry": "Czechia",
+    "pack": "czech",
+    "version": "1.0.0",
+    "sourceVersion": "2008-05-18",
+    "stems": "166,565",
+    "source": "worm",
+    "dictType": "hs"
+}

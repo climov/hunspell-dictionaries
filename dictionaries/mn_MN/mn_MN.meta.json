@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Mongolian",
+    "variantID": "mn_MN",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Mongolian",
+    "languageID": "mn",
+    "qlanguage": "Mongolian",
+    "qscript": "Cyrillic",
+    "qcountry": "Mongolia",
+    "pack": "mongolian",
+    "version": "1.0.0",
+    "sourceVersion": "0.06-4 (2008-07-29)",
+    "stems": "40,119",
+    "source": "worm",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Kurdish",
+    "variantID": "ku_TR",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Kurdish",
+    "languageID": "ku",
+    "qlanguage": "Kurdish",
+    "qscript": "Latin",
+    "qcountry": "Turkey",
+    "pack": "kurdish",
+    "version": "1.0.0",
+    "sourceVersion": "0.20",
+    "stems": "4,759",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

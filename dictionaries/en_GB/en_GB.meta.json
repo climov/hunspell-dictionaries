@@ -1,0 +1,18 @@
+{
+    "variantFullName": "English (UK)",
+    "variantID": "en_GB",
+    "variantName": "Great Britain",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "English",
+    "languageID": "en",
+    "qlanguage": "English",
+    "qscript": "Latin",
+    "qcountry": "UnitedKingdom",
+    "pack": "english",
+    "version": "1.0.0",
+    "sourceVersion": "2017.01.22",
+    "stems": "49,195",
+    "source": "worm",
+    "dictType": "hs"
+}

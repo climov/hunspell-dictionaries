@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Puerto Rico)",
+    "variantID": "es_PR",
+    "variantName": "Puerto Rico",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "PuertoRico",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,509",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

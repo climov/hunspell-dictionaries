@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Greek (Polytonic)",
+    "variantID": "el_GR-polyton",
+    "variantName": "Polytonic",
+    "defaultPreset": "greek",
+    "isDefault": false,
+    "languageName": "Greek",
+    "languageID": "el",
+    "qlanguage": "Greek",
+    "qscript": "Greek",
+    "qcountry": "Greece",
+    "pack": "greek",
+    "version": "1.0.0",
+    "sourceVersion": "10/7/2016",
+    "stems": "707,806",
+    "source": "worm",
+    "dictType": "hs"
+}

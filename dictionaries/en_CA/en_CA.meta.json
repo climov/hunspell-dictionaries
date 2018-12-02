@@ -1,0 +1,18 @@
+{
+    "variantFullName": "English (CA)",
+    "variantID": "en_CA",
+    "variantName": "Canada",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "English",
+    "languageID": "en",
+    "qlanguage": "English",
+    "qscript": "Latin",
+    "qcountry": "Canada",
+    "pack": "english",
+    "version": "1.0.0",
+    "sourceVersion": "2017.01.22",
+    "stems": "49,155",
+    "source": "worm",
+    "dictType": "hs"
+}

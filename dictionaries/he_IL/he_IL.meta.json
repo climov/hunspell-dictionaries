@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Hebrew",
+    "variantID": "he_IL",
+    "variantName": "",
+    "defaultPreset": "hebrew",
+    "isDefault": true,
+    "languageName": "Hebrew",
+    "languageID": "he",
+    "qlanguage": "Hebrew",
+    "qscript": "Hebrew",
+    "qcountry": "Israel",
+    "pack": "hebrew",
+    "version": "1.0.0",
+    "sourceVersion": "2017",
+    "stems": "341,585",
+    "source": "worm",
+    "dictType": "hs"
+}

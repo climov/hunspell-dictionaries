@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Papiamentu (CW)",
+    "variantID": "pap_CW",
+    "variantName": "Curacao",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Papiamentu",
+    "languageID": "pap",
+    "qlanguage": "Papiamento",
+    "qscript": "Latin",
+    "qcountry": "CuraSao",
+    "pack": "papiamento",
+    "version": "1.0.0",
+    "sourceVersion": "1.0 (14-09-2011)",
+    "stems": "16,159",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

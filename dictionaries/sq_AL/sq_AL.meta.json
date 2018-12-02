@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Albanian",
+    "variantID": "sq_AL",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Albanian",
+    "languageID": "sq",
+    "qlanguage": "Albanian",
+    "qscript": "Latin",
+    "qcountry": "Albania",
+    "pack": "albanian",
+    "version": "1.0.0",
+    "sourceVersion": "1.6.4 (15.07.2011)",
+    "stems": "229,505",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

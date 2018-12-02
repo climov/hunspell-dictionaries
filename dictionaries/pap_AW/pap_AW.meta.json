@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Papiamento (AW)",
+    "variantID": "pap_AW",
+    "variantName": "Aruba",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Papiamento",
+    "languageID": "pap",
+    "qlanguage": "Papiamento",
+    "qscript": "Latin",
+    "qcountry": "Aruba",
+    "pack": "papiamento",
+    "version": "1.0.0",
+    "sourceVersion": "1.0 (14-09-2011)",
+    "stems": "16,373",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

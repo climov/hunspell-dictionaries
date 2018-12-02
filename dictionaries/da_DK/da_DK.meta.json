@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Danish",
+    "variantID": "da_DK",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Danish",
+    "languageID": "da",
+    "qlanguage": "Danish",
+    "qscript": "Latin",
+    "qcountry": "Denmark",
+    "pack": "danish",
+    "version": "1.0.0",
+    "sourceVersion": "1.4 (2018-07-15)",
+    "stems": "149,991",
+    "source": "worm",
+    "dictType": "hs"
+}

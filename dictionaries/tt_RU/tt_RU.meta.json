@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Tatar",
+    "variantID": "tt_RU",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Tatar",
+    "languageID": "tt",
+    "qlanguage": "Tatar",
+    "qscript": "Cyrillic",
+    "qcountry": "Russia",
+    "pack": "tatar",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "76,269",
+    "source": "",
+    "dictType": "hs"
+}

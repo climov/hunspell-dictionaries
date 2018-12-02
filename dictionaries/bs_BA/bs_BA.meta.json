@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Bosnian",
+    "variantID": "bs_BA",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Bosnian",
+    "languageID": "bs",
+    "qlanguage": "Bosnian",
+    "qscript": "Latin",
+    "qcountry": "Bosnia",
+    "pack": "bosnian",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "30,542",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

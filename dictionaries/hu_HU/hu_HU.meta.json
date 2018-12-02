@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Hungarian",
+    "variantID": "hu_HU",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Hungarian",
+    "languageID": "hu",
+    "qlanguage": "Hungarian",
+    "qscript": "Latin",
+    "qcountry": "Hungary",
+    "pack": "hungarian",
+    "version": "1.0.0",
+    "sourceVersion": "1.6",
+    "stems": "89,106",
+    "source": "worm",
+    "dictType": "hs"
+}

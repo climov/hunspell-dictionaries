@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Italian",
+    "variantID": "it_IT",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Italian",
+    "languageID": "it",
+    "qlanguage": "Italian",
+    "qscript": "Latin",
+    "qcountry": "Italy",
+    "pack": "italian",
+    "version": "1.0.0",
+    "sourceVersion": "5.0 (10-Feb-2016)",
+    "stems": "95,438",
+    "source": "worm",
+    "dictType": "hs"
+}

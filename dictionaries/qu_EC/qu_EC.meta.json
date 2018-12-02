@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Quechua",
+    "variantID": "qu_EC",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Quechua",
+    "languageID": "qu",
+    "qlanguage": "Quechua",
+    "qscript": "Latin",
+    "qcountry": "Ecuador",
+    "pack": "quechua",
+    "version": "1.0.0",
+    "sourceVersion": "0.9",
+    "stems": "16,692",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

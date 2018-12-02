@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Friulian",
+    "variantID": "fur",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Friulian",
+    "languageID": "fur",
+    "qlanguage": "Friulian",
+    "qscript": "Latin",
+    "qcountry": "Italy",
+    "pack": "friulian",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "36,320",
+    "source": "worm",
+    "dictType": "hs"
+}

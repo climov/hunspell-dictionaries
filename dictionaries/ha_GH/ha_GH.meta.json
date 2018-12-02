@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Hausa",
+    "variantID": "ha_GH",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Hausa",
+    "languageID": "ha",
+    "qlanguage": "Hausa",
+    "qscript": "Latin",
+    "qcountry": "Ghana",
+    "pack": "hausa",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "37,713",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

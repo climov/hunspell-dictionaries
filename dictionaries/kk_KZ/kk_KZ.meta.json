@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Kazakh",
+    "variantID": "kk_KZ",
+    "variantName": "",
+    "defaultPreset": "cyrillic",
+    "isDefault": true,
+    "languageName": "Kazakh",
+    "languageID": "kk",
+    "qlanguage": "Kazakh",
+    "qscript": "Cyrillic",
+    "qcountry": "Kazakhstan",
+    "pack": "kazakh",
+    "version": "1.0.0",
+    "sourceVersion": "0.2",
+    "stems": "54,063",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

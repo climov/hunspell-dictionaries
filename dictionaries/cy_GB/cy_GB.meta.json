@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Welsh",
+    "variantID": "cy_GB",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Welsh",
+    "languageID": "cy",
+    "qlanguage": "Welsh",
+    "qscript": "Latin",
+    "qcountry": "UnitedKingdom",
+    "pack": "welsh",
+    "version": "1.0.0",
+    "sourceVersion": "2004",
+    "stems": "132,201",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

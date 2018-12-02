@@ -1,0 +1,18 @@
+{
+    "variantFullName": "English (AU)",
+    "variantID": "en_AU",
+    "variantName": "Australia",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "English",
+    "languageID": "en",
+    "qlanguage": "English",
+    "qscript": "Latin",
+    "qcountry": "Australia",
+    "pack": "english",
+    "version": "1.0.0",
+    "sourceVersion": "2017.01.22",
+    "stems": "49,347",
+    "source": "worm",
+    "dictType": "hs"
+}

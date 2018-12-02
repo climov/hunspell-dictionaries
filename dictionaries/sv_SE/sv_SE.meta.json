@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Swedish",
+    "variantID": "sv_SE",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Swedish",
+    "languageID": "sv",
+    "qlanguage": "Swedish",
+    "qscript": "Latin",
+    "qcountry": "Sweden",
+    "pack": "swedish",
+    "version": "1.0.0",
+    "sourceVersion": "2014",
+    "stems": "145,291",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

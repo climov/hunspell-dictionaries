@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Tamil",
+    "variantID": "ta_IN",
+    "variantName": "",
+    "defaultPreset": "tamil",
+    "isDefault": true,
+    "languageName": "Tamil",
+    "languageID": "ta",
+    "qlanguage": "Tamil",
+    "qscript": "Tamil",
+    "qcountry": "India",
+    "pack": "tamil",
+    "version": "1.0.0",
+    "sourceVersion": "0.4",
+    "stems": "83,607",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

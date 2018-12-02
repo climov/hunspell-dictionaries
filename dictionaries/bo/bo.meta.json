@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Tibetan",
+    "variantID": "bo",
+    "variantName": "",
+    "defaultPreset": "tibetan",
+    "isDefault": true,
+    "languageName": "Tibetan",
+    "languageID": "bo",
+    "qlanguage": "Tibetan",
+    "qscript": "Tibetan",
+    "qcountry": "",
+    "pack": "tibetan",
+    "version": "1.0.0",
+    "sourceVersion": "0.4.0 (2017-08-27)",
+    "stems": "378",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

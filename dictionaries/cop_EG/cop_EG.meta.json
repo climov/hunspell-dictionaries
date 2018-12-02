@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Coptic (Bohairic)",
+    "variantID": "cop_EG",
+    "variantName": "",
+    "defaultPreset": "coptic",
+    "isDefault": true,
+    "languageName": "Coptic (Bohairic)",
+    "languageID": "cop",
+    "qlanguage": "Coptic",
+    "qscript": "Coptic",
+    "qcountry": "Egypt",
+    "pack": "coptic",
+    "version": "1.0.0",
+    "sourceVersion": "0.2 (Dec. 2006)",
+    "stems": "7,000",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

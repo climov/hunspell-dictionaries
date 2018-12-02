@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Romanian (Classic)",
+    "variantID": "ro_RO-classic",
+    "variantName": "Classic",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Romanian",
+    "languageID": "ro",
+    "qlanguage": "Romanian",
+    "qscript": "Latin",
+    "qcountry": "Romania",
+    "pack": "romanian",
+    "version": "1.0.0",
+    "sourceVersion": "3.3.10",
+    "stems": "181,357",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

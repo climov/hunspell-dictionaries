@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Uruguay)",
+    "variantID": "es_UY",
+    "variantName": "Uruguay",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Uruguay",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,718",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

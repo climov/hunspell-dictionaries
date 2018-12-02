@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Interlingue",
+    "variantID": "ie",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Interlingue",
+    "languageID": "ie",
+    "qlanguage": "Interlingue",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "interlingue",
+    "version": "1.0.0",
+    "sourceVersion": "0.6 (2018)",
+    "stems": "23,021",
+    "source": "worm",
+    "dictType": "hs"
+}

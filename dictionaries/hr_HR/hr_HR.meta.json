@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Croatian",
+    "variantID": "hr_HR",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Croatian",
+    "languageID": "hr",
+    "qlanguage": "Croatian",
+    "qscript": "Latin",
+    "qcountry": "Croatia",
+    "pack": "croatian",
+    "version": "1.0.0",
+    "sourceVersion": "2003",
+    "stems": "215,956",
+    "source": "worm",
+    "dictType": "hs"
+}

@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Cuba)",
+    "variantID": "es_CU",
+    "variantName": "Cuba",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Cuba",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.1",
+    "stems": "71,046",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

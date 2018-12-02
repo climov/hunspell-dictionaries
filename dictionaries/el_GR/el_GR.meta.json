@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Greek",
+    "variantID": "el_GR",
+    "variantName": "",
+    "defaultPreset": "greek",
+    "isDefault": true,
+    "languageName": "Greek",
+    "languageID": "el",
+    "qlanguage": "Greek",
+    "qscript": "Greek",
+    "qcountry": "Greece",
+    "pack": "greek",
+    "version": "1.0.0",
+    "sourceVersion": "0.9 (14/03/2015)",
+    "stems": "828,806",
+    "source": "worm",
+    "dictType": "hs"
+}

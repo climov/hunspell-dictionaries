@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Spanish (Peru)",
+    "variantID": "es_PE",
+    "variantName": "Peru",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Spanish",
+    "languageID": "es",
+    "qlanguage": "Spanish",
+    "qscript": "Latin",
+    "qcountry": "Peru",
+    "pack": "spanish",
+    "version": "1.0.0",
+    "sourceVersion": "0.6",
+    "stems": "53,619",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

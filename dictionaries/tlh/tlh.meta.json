@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Klingon (pIqaD)",
+    "variantID": "tlh",
+    "variantName": "pIqaD",
+    "defaultPreset": "pIqaD",
+    "isDefault": false,
+    "languageName": "Klingon",
+    "languageID": "tlh",
+    "qlanguage": "",
+    "qscript": "x-pIqaD",
+    "qcountry": "",
+    "pack": "klingon",
+    "version": "1.0.0",
+    "sourceVersion": "1.0.1 (2018-11-06)",
+    "stems": "3,805",
+    "source": "",
+    "dictType": "hs"
+}

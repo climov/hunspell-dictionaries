@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Maltese",
+    "variantID": "mt_MT",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Maltese",
+    "languageID": "mt",
+    "qlanguage": "Maltese",
+    "qscript": "Latin",
+    "qcountry": "Malta",
+    "pack": "maltese",
+    "version": "1.0.0",
+    "sourceVersion": "0.4",
+    "stems": "824,847",
+    "source": "freeoffice",
+    "dictType": "hs"
+}

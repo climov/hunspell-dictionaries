@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Interlingua",
+    "variantID": "ia",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Interlingua",
+    "languageID": "ia",
+    "qlanguage": "Interlingua",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "interlingua",
+    "version": "1.0.0",
+    "sourceVersion": "2014-05-30",
+    "stems": "51,603",
+    "source": "worm",
+    "dictType": "hs"
+}

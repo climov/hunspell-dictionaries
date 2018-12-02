@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Sinhalese",
+    "variantID": "si_LK",
+    "variantName": "",
+    "defaultPreset": "sinhala",
+    "isDefault": true,
+    "languageName": "Sinhalese",
+    "languageID": "si",
+    "qlanguage": "Sinhala",
+    "qscript": "Sinhala",
+    "qcountry": "SriLanka",
+    "pack": "sinhala",
+    "version": "1.0.0",
+    "sourceVersion": "2010",
+    "stems": "30,319",
+    "source": "documentfoundation",
+    "dictType": "hs"
+}

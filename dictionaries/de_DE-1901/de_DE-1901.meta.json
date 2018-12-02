@@ -1,0 +1,18 @@
+{
+    "variantFullName": "German (Classic)",
+    "variantID": "de_DE-1901",
+    "variantName": "Classic",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "German",
+    "languageID": "de",
+    "qlanguage": "German",
+    "qscript": "Latin",
+    "qcountry": "Germany",
+    "pack": "german",
+    "version": "1.0.0",
+    "sourceVersion": "2014-02-14",
+    "stems": "235,298",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

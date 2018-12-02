@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Portuguese (PT)",
+    "variantID": "pt_PT",
+    "variantName": "Portugal",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Portuguese",
+    "languageID": "pt",
+    "qlanguage": "Portuguese",
+    "qscript": "Latin",
+    "qcountry": "Portugal",
+    "pack": "basic",
+    "version": "1.0.0",
+    "sourceVersion": "2013-10",
+    "stems": "311,682",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

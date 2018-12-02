@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Belarusian (Classic)",
+    "variantID": "be_BY-classic",
+    "variantName": "Classic",
+    "defaultPreset": "cyrillic",
+    "isDefault": false,
+    "languageName": "Belarusian",
+    "languageID": "be",
+    "qlanguage": "Belarusian",
+    "qscript": "Cyrillic",
+    "qcountry": "Belarus",
+    "pack": "belarusian",
+    "version": "1.0.0",
+    "sourceVersion": "0.01",
+    "stems": "1,566,661",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

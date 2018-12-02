@@ -1,0 +1,18 @@
+{
+    "variantFullName": "English (NZ)",
+    "variantID": "en_NZ",
+    "variantName": "New Zealand",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "English",
+    "languageID": "en",
+    "qlanguage": "English",
+    "qscript": "Latin",
+    "qcountry": "NewZealand",
+    "pack": "english",
+    "version": "1.0.0",
+    "sourceVersion": "1.14 (15/12/02)",
+    "stems": "47,141",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

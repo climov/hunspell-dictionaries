@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Lingala",
+    "variantID": "ln_CD",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Lingala",
+    "languageID": "ln",
+    "qlanguage": "Lingala",
+    "qscript": "Latin",
+    "qcountry": "CongoKinshasa",
+    "pack": "lingala",
+    "version": "1.0.0",
+    "sourceVersion": "0.03",
+    "stems": "5,194",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

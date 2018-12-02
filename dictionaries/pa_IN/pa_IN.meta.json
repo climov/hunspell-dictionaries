@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Punjabi",
+    "variantID": "pa_IN",
+    "variantName": "",
+    "defaultPreset": "gurmukhi",
+    "isDefault": true,
+    "languageName": "Punjabi",
+    "languageID": "pa",
+    "qlanguage": "Punjabi",
+    "qscript": "Gurmukhi",
+    "qcountry": "India",
+    "pack": "punjabi",
+    "version": "1.0.0",
+    "sourceVersion": "2005",
+    "stems": "2,045",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

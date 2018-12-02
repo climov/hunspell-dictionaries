@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Turkish",
+    "variantID": "tr_TR",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Turkish",
+    "languageID": "tr",
+    "qlanguage": "Turkish",
+    "qscript": "Latin",
+    "qcountry": "Turkey",
+    "pack": "turkish",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "371,169",
+    "source": "worm",
+    "dictType": "hs"
+}

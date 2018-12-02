@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Dzongkha",
+    "variantID": "dz_BT",
+    "variantName": "",
+    "defaultPreset": "tibetan",
+    "isDefault": true,
+    "languageName": "Dzongkha",
+    "languageID": "dz",
+    "qlanguage": "Dzongkha",
+    "qscript": "Tibetan",
+    "qcountry": "Bhutan",
+    "pack": "tibetan",
+    "version": "1.0.0",
+    "sourceVersion": "0.1.0 (2017-08-27)",
+    "stems": "404",
+    "source": "",
+    "dictType": "hs"
+}

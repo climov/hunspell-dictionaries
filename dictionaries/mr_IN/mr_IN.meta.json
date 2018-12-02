@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Marathi",
+    "variantID": "mr_IN",
+    "variantName": "",
+    "defaultPreset": "devanagari",
+    "isDefault": true,
+    "languageName": "Marathi",
+    "languageID": "mr",
+    "qlanguage": "Marathi",
+    "qscript": "Devanagari",
+    "qcountry": "India",
+    "pack": "devanagari",
+    "version": "1.0.0",
+    "sourceVersion": "",
+    "stems": "193,618",
+    "source": "elasticsearch",
+    "dictType": "hs"
+}

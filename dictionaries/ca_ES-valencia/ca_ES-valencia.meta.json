@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Catalan (Valencia)",
+    "variantID": "ca_ES-valencia",
+    "variantName": "Valencia",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Catalan",
+    "languageID": "ca",
+    "qlanguage": "Catalan",
+    "qscript": "Latin",
+    "qcountry": "Spain",
+    "pack": "catalan",
+    "version": "1.0.0",
+    "sourceVersion": "3.0.2 (24-04-2017)",
+    "stems": "133,492",
+    "source": "worm",
+    "dictType": "hs"
+}

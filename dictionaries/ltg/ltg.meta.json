@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Latgalian",
+    "variantID": "ltg",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Latgalian",
+    "languageID": "ltg",
+    "qlanguage": "Latgalian",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "latgalian",
+    "version": "1.0.0",
+    "sourceVersion": "0.1.5",
+    "stems": "8,459",
+    "source": "worm",
+    "dictType": "hs"
+}

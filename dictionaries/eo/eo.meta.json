@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Esperanto",
+    "variantID": "eo",
+    "variantName": "",
+    "defaultPreset": "latin",
+    "isDefault": true,
+    "languageName": "Esperanto",
+    "languageID": "eo",
+    "qlanguage": "Esperanto",
+    "qscript": "Latin",
+    "qcountry": "",
+    "pack": "esperanto",
+    "version": "1.0.0",
+    "sourceVersion": "2010-01",
+    "stems": "29,905",
+    "source": "worm",
+    "dictType": "hs"
+}
