@@ -47,7 +47,6 @@ German,de_DE,Germany,latin,y,German,de,German,Latin,Germany,basic,1.0.0,20161207
 German (Classic),de_DE-1901,Classic,latin,n,German,de,German,Latin,Germany,german,1.0.0,2014-02-14,"235,298",elasticsearch
 German (AT),de_AT,Austria,latin,n,German,de,German,Latin,Austria,german,1.0.0,20161207,"76,033",worm
 German (CH),de_CH,Switzerland,latin,n,German,de,German,Latin,Switzerland,german,1.0.0,20161207,"75,865",worm
-German (Low Saxon),nds,,latin,y,German (Low Saxon),nds,LowGerman,Latin,,german,1.0.0,0.1 (2004-2014),"9,543",worm
 Greek,el_GR,,greek,y,Greek,el,Greek,Greek,Greece,greek,1.0.0,0.9 (14/03/2015),"828,806",worm
 Greek (Polytonic),el_GR-polyton,Polytonic,greek,n,Greek,el,Greek,Greek,Greece,greek,1.0.0,10/7/2016,"707,806",worm
 Guarani,gug,,latin,y,Guarani,gug,Guarani,Latin,,guarani,1.0.0,1.1 (Dec 2016),"4,216",documentfoundation
@@ -78,6 +77,7 @@ Latin (Classic),la-classic,Classic,latin,n,Latin,la,Latin,Latin,,latin,1.0.0,3.1
 Latvian,lv_LV,,latin,y,Latvian,lv,Latvian,Latin,Latvia,latvian,1.0.0,1.2.0 (2016),"66,493",worm
 Lingala,ln_CD,,latin,y,Lingala,ln,Lingala,Latin,CongoKinshasa,lingala,1.0.0,0.03,"5,194",elasticsearch
 Lithuanian,lt_LT,,latin,y,Lithuanian,lt,Lithuanian,Latin,Lithuania,lithuanian,1.0.0,2013,"83,258",worm
+Low Saxon,nds,,latin,y,Low Saxon,nds,LowGerman,Latin,,german,1.0.0,0.1 (2004-2014),"9,543",worm
 Lower Sorbian,dsb,,latin,y,Lower Sorbian,dsb,LowerSorbian,Latin,,sorbian,1.0.0,,"84,503",elasticsearch
 Luxembourgish,lb_LU,,latin,y,Luxembourgish,lb,Luxembourgish,Latin,Luxembourg,luxembourgish,1.0.0,2018,"86,609",worm
 Macedonian,mk_MK,,cyrillic,y,Macedonian,mk,Macedonian,Cyrillic,Macedonia,macedonian,1.0.0,2016,"65,597",worm
@@ -89,8 +89,8 @@ Maori,mi_NZ,,latin,y,Maori,mi,Maori,Latin,NewZealand,maori,1.0.0,0.9.9.20080630,
 Marathi,mr_IN,,devanagari,y,Marathi,mr,Marathi,Devanagari,India,devanagari,1.0.0,,"193,618",elasticsearch
 Mongolian,mn_MN,,cyrillic,y,Mongolian,mn,Mongolian,Cyrillic,Mongolia,mongolian,1.0.0,0.06-4 (2008-07-29),"40,119",worm
 Nepali,ne_NP,,devanagari,y,Nepali,ne,Nepali,Devanagari,Nepal,devanagari,1.0.0,2.1 2008-04-25,"36,827",worm
-Norwegian (Bokmal),nb_NO,,latin,y,Norwegian (Bokmal),nb,NorwegianBokmal,Latin,Norway,norwegian,1.0.0,2.2,"322,043",worm
-Norwegian (Nynorsk),nn_NO,,latin,y,Norwegian (Nynorsk),nn,NorwegianNynorsk,Latin,Norway,norwegian,1.0.0,2.2,"214,829",worm
+Norwegian (Bokmal),nb_NO,Bokmal,latin,y,Norwegian,no,NorwegianBokmal,Latin,Norway,norwegian,1.0.0,2.2,"322,043",worm
+Norwegian (Nynorsk),nn_NO,Nynorsk,latin,n,Norwegian,no,NorwegianNynorsk,Latin,Norway,norwegian,1.0.0,2.2,"214,829",worm
 Nyanja,ny_MW,,latin,y,Nyanja,ny,Nyanja,Latin,Malawi,nyanja,1.0.0,,"5,778",elasticsearch
 Occitan (Gascon),gsc_FR,,latin,y,Occitan (Gascon),gsc,Occitan,Latin,France,occitan,1.0.0,,"2,098,768",elasticsearch
 Occitan,oc_FR,,latin,y,Occitan,oc,Occitan,Latin,France,occitan,1.0.0,0.2,"53,791",elasticsearch

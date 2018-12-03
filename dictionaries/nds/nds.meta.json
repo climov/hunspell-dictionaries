@@ -1,10 +1,10 @@
 {
-    "variantFullName": "German (Low Saxon)",
+    "variantFullName": "Low Saxon",
     "variantID": "nds",
     "variantName": "",
     "defaultPreset": "latin",
     "isDefault": true,
-    "languageName": "German (Low Saxon)",
+    "languageName": "Low Saxon",
     "languageID": "nds",
     "qlanguage": "LowGerman",
     "qscript": "Latin",

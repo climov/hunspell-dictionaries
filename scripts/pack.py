@@ -172,4 +172,4 @@ if __name__ == "__main__":
     
     createMetaForDictionaries(variants, args.dicts)
     #print(json.dumps(packs, indent=4))
-    createMetaForPacks(variants, languages, packs, presets, presetsByScript, args.packs)
+    #createMetaForPacks(variants, languages, packs, presets, presetsByScript, args.packs)
