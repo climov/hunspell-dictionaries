@@ -1,0 +1,13 @@
+HINDI SPELLCHECKER FOR OPENOFFICE 
+Version 2.1.2.1
+Last Update on Wed Mar 22 16:56:24 2017 +0530
+
+Authors: ShreeDevi Kumar <shreeshrii@hotmail.com>
+
+This spellchecker for OpenOffice was based on Hindi Hunspell files by Shree Devi Kumar.
+
+Project site: https://github.com/Shreeshrii/hindi-hunspell
+OpenOffice in Hindi:  http://hi.openoffice.org/
+
+This spellchecker is released with  GPLv3 license
+Visit http://www.gnu.org/licenses/ for more information

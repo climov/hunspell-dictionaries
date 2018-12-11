@@ -1,7 +1,7 @@
 {
-    "variantFullName": "Sanskrit",
+    "variantFullName": "Sanskrit (Devanagari)",
     "variantID": "sa_IN",
-    "variantName": "",
+    "variantName": "Devanagari",
     "defaultPreset": "devanagari",
     "isDefault": true,
     "languageName": "Sanskrit",
@@ -10,9 +10,9 @@
     "qscript": "Devanagari",
     "qcountry": "India",
     "pack": "devanagari",
-    "version": "1.0.0",
-    "sourceVersion": "1.1 (27/AGO/2011)",
-    "stems": "3,063",
-    "source": "elasticsearch",
+    "version": "2.0.0",
+    "sourceVersion": "(Feb 25, 2017)",
+    "stems": "862,819",
+    "source": "https://github.com/Shreeshrii/hindi-hunspell",
     "dictType": "hs"
 }

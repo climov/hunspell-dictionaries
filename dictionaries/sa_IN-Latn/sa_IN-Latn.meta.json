@@ -1,0 +1,18 @@
+{
+    "variantFullName": "Sanskrit (Latin)",
+    "variantID": "sa_IN-Latn",
+    "variantName": "Latin",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Sanskrit",
+    "languageID": "sa",
+    "qlanguage": "Sanskrit",
+    "qscript": "Latin",
+    "qcountry": "India",
+    "pack": "devanagari",
+    "version": "2.0.0",
+    "sourceVersion": "(Feb 25, 2017)",
+    "stems": "949,655",
+    "source": "https://github.com/Shreeshrii/hindi-hunspell",
+    "dictType": "hs"
+}
