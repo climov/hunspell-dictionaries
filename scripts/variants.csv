@@ -12,7 +12,7 @@ Azerbaijani (Latin),az_AZ-Latn,Latin,latin,y,Azerbaijani,az,Azerbaijani,Latin,Az
 Basque,eu,,latin,y,Basque,eu,Basque,Latin,,basque,1.0.0,,"142,302",worm
 Belarusian (Classic),be_BY-classic,Classic,cyrillic,n,Belarusian,be,Belarusian,Cyrillic,Belarus,belarusian,1.0.0,0.01,"1,566,661",elasticsearch
 Belarusian,be_BY,,cyrillic,y,Belarusian,be,Belarusian,Cyrillic,Belarus,belarusian,1.0.0,0.56 (2012),"83,365",elasticsearch
-Bengali/Bangla,bn_BD,,begali,y,Bengali/Bangla,bn,Bengali,Bengali,Bangladesh,bengali,1.0.0,0.08 (2012-01-04),"503,573",elasticsearch
+Bengali/Bangla,bn_BD,,bengali,y,Bengali/Bangla,bn,Bengali,Bengali,Bangladesh,bengali,1.0.0,0.08 (2012-01-04),"503,573",elasticsearch
 Bosnian,bs_BA,,latin,y,Bosnian,bs,Bosnian,Latin,Bosnia,bosnian,1.0.0,,"30,542",documentfoundation
 Breton,br_FR,,latin,y,Breton,br,Breton,Latin,France,breton,1.0.0,0.15 (2015.09.24),"464,703",worm
 Bulgarian,bg_BG,,cyrillic,y,Bulgarian,bg,Bulgarian,Cyrillic,Bulgaria,bulgarian,1.0.0,2010,"78,233",worm
@@ -53,7 +53,7 @@ Guarani,gug,,latin,y,Guarani,gug,Guarani,Latin,,guarani,1.0.0,1.1 (Dec 2016),"4,
 Gujarati,gu_IN,,gujarati,y,Gujarati,gu,Gujarati,Gujarati,India,gujarati,1.0.0,,"168,957",elasticsearch
 Hausa,ha_GH,,latin,y,Hausa,ha,Hausa,Latin,Ghana,hausa,1.0.0,,"37,713",elasticsearch
 Hebrew,he_IL,,hebrew,y,Hebrew,he,Hebrew,Hebrew,Israel,hebrew,1.0.0,2017,"341,585",worm
-Hindi,hi_IN,,devanagari,y,Hindi,hi,Hindi,Devanagari,India,devanagari,1.0.0,,"111,120",elasticsearch
+Hindi,hi_IN,,devanagari,y,Hindi,hi,Hindi,Devanagari,India,devanagari,2.0.0,2.1.2.1,"207,694",https://github.com/Shreeshrii/hindi-hunspell
 Hungarian,hu_HU,,latin,y,Hungarian,hu,Hungarian,Latin,Hungary,hungarian,1.0.0,1.6,"89,106",worm
 Icelandic,is_IS,,latin,y,Icelandic,is,Icelandic,Latin,Iceland,icelandic,1.0.0,,"193,170",worm
 Indonesian,id_ID,,latin,y,Indonesian,id,Indonesian,Latin,Indonesia,indonesian,1.0.0,1.2,"23,453",elasticsearch
@@ -106,7 +106,8 @@ Quechua,qu_EC,,latin,y,Quechua,qu,Quechua,Latin,Ecuador,quechua,1.0.0,0.9,"16,69
 Romanian,ro_RO,,latin,y,Romanian,ro,Romanian,Latin,Romania,romanian,1.0.0,3.3.10,"181,357",worm
 Romanian (Classic),ro_RO-classic,Classic,latin,n,Romanian,ro,Romanian,Latin,Romania,romanian,1.0.0,3.3.10,"181,357",elasticsearch
 Russian,ru_RU,,cyrillic,y,Russian,ru,Russian,Cyrillic,Russia,basic,1.0.0,0.99g5 (2009-06-03),"146,235",worm
-Sanskrit,sa_IN,,devanagari,y,Sanskrit,sa,Sanskrit,Devanagari,India,devanagari,1.0.0,1.1 (27/AGO/2011),"3,063",elasticsearch
+Sanskrit (Devanagari),sa_IN,Devanagari,devanagari,y,Sanskrit,sa,Sanskrit,Devanagari,India,devanagari,2.0.0,"(Feb 25, 2017)","862,819",https://github.com/Shreeshrii/hindi-hunspell
+Sanskrit (Latin),sa_IN-Latn,Latin,latin,n,Sanskrit,sa,Sanskrit,Latin,India,devanagari,2.0.0,"(Feb 25, 2017)","949,655",https://github.com/Shreeshrii/hindi-hunspell
 Scottish Gaelic,gd_GB,,latin,y,Scottish Gaelic,gd,Gaelic,Latin,UnitedKingdom,gaelic,1.0.0,3.2,"330,311",worm
 Serbian,sr_RS,,cyrillic,y,Serbian,sr,Serbian,Cyrillic,Serbia,serbian,1.0.0,,"263,909",worm
 Serbian (Latin),sr_RS-Latn,Latin,latin,n,Serbian,sr,Serbian,Latin,Serbia,serbian,1.0.0,,"263,909",worm
