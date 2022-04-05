@@ -1,7 +1,7 @@
 {
     "variantFullName": "French",
     "variantID": "fr_FR",
-    "variantName": "Recommended",
+    "variantName": "Modern",
     "defaultPreset": "latin",
     "isDefault": true,
     "languageName": "French",
@@ -14,5 +14,6 @@
     "sourceVersion": "4.2",
     "stems": "67,498",
     "source": "freeoffice",
+    "description": "Ce dictionnaire propose une sélection des graphies classiques et réformées, suivant la lente évolution de l’orthographe actuelle. Ce dictionnaire contient les graphies les moins polémiques de la réforme.",
     "dictType": "hs"
 }

@@ -1,7 +1,7 @@
 {
     "variantFullName": "Serbian",
     "variantID": "sr_RS",
-    "variantName": "",
+    "variantName": "Modern",
     "defaultPreset": "cyrillic",
     "isDefault": true,
     "languageName": "Serbian",
@@ -14,5 +14,6 @@
     "sourceVersion": "",
     "stems": "263,909",
     "source": "worm",
+    "description": "Uses the Cyrillic alphabet.",
     "dictType": "hs"
 }

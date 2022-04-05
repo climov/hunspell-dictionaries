@@ -7,7 +7,7 @@ import os.path
 
 # Reads the variants.csv file and outputs a tuple of 3 dictionaries: (variants, languages, packs)
 def readVariants(varCsv):
-    with open(varCsv, newline='') as csvVariants:
+    with open(varCsv, newline='', encoding='utf-8') as csvVariants:
         variantsReader = csv.reader(csvVariants)
         header = []
         variants = {}
@@ -28,7 +28,10 @@ def readVariants(varCsv):
                     colNum += 1
                 if variant['variantID'] in variants:
                     raise "Duplicate language variant: " + variant['variantID']
-                variant['dictType'] = 'hs'
+                if variant['stems'] != '':
+                    variant['dictType'] = 'hs'
+                else:
+                    variant['dictType'] = ''
                 variant['isDefault'] = (variant['isDefault'] == "y")
                 variants[variant['variantID']] = variant
                 # variantName should be unique
@@ -63,7 +66,7 @@ def readVariants(varCsv):
 
 # Reads the presets.csv file and outputs a tuple of 2 dictionaries: (presets, presetsByScript)
 def readPresets(presCsv):
-    with open(presCsv, newline='') as csvPresets:
+    with open(presCsv, newline='', encoding='utf-8') as csvPresets:
         presetsReader = csv.reader(csvPresets)
         header = []
         presets = {}
@@ -82,7 +85,6 @@ def readPresets(presCsv):
                     colNum += 1
                 if preset['id'] in presets:
                     raise "Duplicate preset: " + preset['id']
-                preset['preinstalled'] = (preset['preinstalled'] == 'y')
                 presets[preset['id']] = preset
                 if preset['qscript'] not in presetsByScript:
                     presetsByScript[preset['qscript']] = []
@@ -94,13 +96,31 @@ def readPresets(presCsv):
 # For each variant, check if it has a dictionary and create the .meta.json file for it
 def createMetaForDictionaries(variants, dictsDir):
     for k, v in variants.items():
+        if v["description"] == "":
+            del v["description"]
         dirPath = dictsDir + "/" + k
         if os.path.isdir(dirPath):
             path = dirPath + "/" + k + ".meta.json"
-            with open(path, 'w') as vout:
-                json.dump(v, vout, indent=4)
+            with open(path, 'w', encoding='utf-8') as vout:
+                json.dump(v, vout, indent=4, ensure_ascii=False)
 
 def createMetaForPacks(variants, languages, packs, presets, presetsByScript, packsDir):
+    basicPresets = set()
+    basicFonts = set()
+    for variantId in packs['basic']:
+        basicScript = variants[variantId]['qscript']
+        for basicPreset in presetsByScript[basicScript]:
+            basicPresets.add(basicPreset)
+            preset = presets[basicPreset]
+            basicFonts.add(preset['typewriterFont'])
+            basicFonts.add(preset['serifFont'])
+            basicFonts.add(preset['sansFont'])
+            basicFonts.add(preset['titleFont'])
+            if preset['additionalFonts'] != '':
+                for font in preset['additionalFonts'].split(','):
+                    basicFonts.add(font.strip())
+    #print(basicPresets)
+    #print(basicFonts)
     for pack, packVariants in packs.items():
         #print(pack)
         packDir = packsDir + "/" + pack
@@ -108,7 +128,8 @@ def createMetaForPacks(variants, languages, packs, presets, presetsByScript, pac
         #print(manifest)
         packJson = {}
         packJson['active'] = True
-        packJson['preinstalled'] = (pack == "basic")
+        isBasic = (pack == 'basic')
+        packJson['preinstalled'] = isBasic
         packJson['languages'] = []
         variantsByLang = {}
         for variantId in packVariants:
@@ -133,25 +154,38 @@ def createMetaForPacks(variants, languages, packs, presets, presetsByScript, pac
                 variant['qscript'] = variants[variantId]['qscript']
                 variant['qcountry'] = variants[variantId]['qcountry']
                 variant['dictType'] = variants[variantId]['dictType']
+                if 'description' in variants[variantId]:
+                    variant['description'] = variants[variantId]['description']
                 lang['variants'] += [variant]
                 packScripts.add(variant['qscript'])
-            packJson['languages'] += [lang]
+            lang['variants'].sort(key = lambda variant: variant['name'])
+            if lang['name'] != '':
+                packJson['languages'] += [lang]
+        packJson['languages'].sort(key = lambda lang: lang['name'])
         packJson['presets'] = []
         packJson['fonts'] = set()
         for packScript in packScripts:
             for packPreset in presetsByScript[packScript]:
                 preset = presets[packPreset].copy()
-                if preset['preinstalled'] == packJson['preinstalled']:
-                    packJson['fonts'].add(preset['typewriterFont'])
-                    packJson['fonts'].add(preset['serifFont'])
-                    packJson['fonts'].add(preset['sansFont'])
-                    packJson['fonts'].add(preset['titleFont'])
-                    del preset['preinstalled']
+                if preset['description'] == '':
+                    del preset['description']
+                packJson['fonts'].add(preset['typewriterFont'])
+                packJson['fonts'].add(preset['serifFont'])
+                packJson['fonts'].add(preset['sansFont'])
+                packJson['fonts'].add(preset['titleFont'])
+                if preset['additionalFonts'] != '':
+                    for font in preset['additionalFonts'].split(','):
+                        packJson['fonts'].add(font.strip())
+                del preset['additionalFonts']
+                if preset['name'] != '' and (isBasic or preset['id'] not in basicPresets):
                     packJson['presets'] += [preset]
-        packJson['fonts'] = list(packJson['fonts'])
+        if not isBasic:
+            packJson['fonts'] -= basicFonts
+        packJson['fonts'] = sorted(list(packJson['fonts']))
+        packJson['presets'] = sorted(list(packJson['presets']), key = lambda preset: preset['id'])
         #print(json.dumps(packJson, indent=4))
-        with open(manifest, 'w') as pout:
-            json.dump(packJson, pout, indent=4)
+        with open(manifest, 'w', encoding='utf-8') as pout:
+            json.dump(packJson, pout, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -172,4 +206,4 @@ if __name__ == "__main__":
     
     createMetaForDictionaries(variants, args.dicts)
     #print(json.dumps(packs, indent=4))
-    #createMetaForPacks(variants, languages, packs, presets, presetsByScript, args.packs)
+    createMetaForPacks(variants, languages, packs, presets, presetsByScript, args.packs)

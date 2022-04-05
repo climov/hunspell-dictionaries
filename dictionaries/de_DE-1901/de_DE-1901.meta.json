@@ -1,7 +1,7 @@
 {
     "variantFullName": "German (Classic)",
     "variantID": "de_DE-1901",
-    "variantName": "Classic",
+    "variantName": "Germany - Classic",
     "defaultPreset": "latin",
     "isDefault": false,
     "languageName": "German",
@@ -14,5 +14,6 @@
     "sourceVersion": "2014-02-14",
     "stems": "235,298",
     "source": "elasticsearch",
+    "description": "Old spelling.",
     "dictType": "hs"
 }

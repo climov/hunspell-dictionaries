@@ -14,5 +14,6 @@
     "sourceVersion": "3.3.10",
     "stems": "181,357",
     "source": "elasticsearch",
+    "description": "Ortografia pre-1993 (î/sînt).",
     "dictType": "hs"
 }

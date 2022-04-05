@@ -14,5 +14,6 @@
     "sourceVersion": "3.1 (2013-03-31)",
     "stems": "136,255",
     "source": "worm",
+    "description": "Universal spelling mode: v=v, u=u, v=u, u=v.",
     "dictType": "hs"
 }

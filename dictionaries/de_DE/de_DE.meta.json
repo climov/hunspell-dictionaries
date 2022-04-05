@@ -1,7 +1,7 @@
 {
     "variantFullName": "German",
     "variantID": "de_DE",
-    "variantName": "Germany",
+    "variantName": "Germany - Modern",
     "defaultPreset": "latin",
     "isDefault": true,
     "languageName": "German",
@@ -14,5 +14,6 @@
     "sourceVersion": "20161207",
     "stems": "75,767",
     "source": "worm",
+    "description": "New spelling.",
     "dictType": "hs"
 }

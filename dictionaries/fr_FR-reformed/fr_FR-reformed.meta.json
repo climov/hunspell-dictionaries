@@ -14,5 +14,6 @@
     "sourceVersion": "4.2",
     "stems": "67,397",
     "source": "freeoffice",
+    "description": "Ce dictionnaire ne connaît que les graphies nouvelles des mots concernés par la réforme de 1990.",
     "dictType": "hs"
 }

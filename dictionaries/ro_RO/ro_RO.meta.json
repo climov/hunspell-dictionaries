@@ -1,7 +1,7 @@
 {
     "variantFullName": "Romanian",
     "variantID": "ro_RO",
-    "variantName": "",
+    "variantName": "Modern",
     "defaultPreset": "latin",
     "isDefault": true,
     "languageName": "Romanian",
@@ -14,5 +14,6 @@
     "sourceVersion": "3.3.10",
     "stems": "181,357",
     "source": "worm",
+    "description": "Ortografia post-1993 (â/sunt).",
     "dictType": "hs"
 }

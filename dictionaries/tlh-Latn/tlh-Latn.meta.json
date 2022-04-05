@@ -1,7 +1,7 @@
 {
     "variantFullName": "Klingon",
     "variantID": "tlh-Latn",
-    "variantName": "",
+    "variantName": "Latin",
     "defaultPreset": "latin",
     "isDefault": true,
     "languageName": "Klingon",
@@ -14,5 +14,6 @@
     "sourceVersion": "1.0.1 (2018-11-06)",
     "stems": "3,805",
     "source": "",
+    "description": "This version of Klingon uses the latin alphabet.",
     "dictType": "hs"
 }

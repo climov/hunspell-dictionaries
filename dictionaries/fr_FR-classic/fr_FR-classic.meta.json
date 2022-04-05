@@ -14,5 +14,6 @@
     "sourceVersion": "6.3",
     "stems": "80,863",
     "source": "worm",
+    "description": "Ce dictionnaire est une extension du dictionnaire «Moderne» et propose en sus des graphies alternatives, parfois encore très usitées, parfois tombées en désuétude.",
     "dictType": "hs"
 }
