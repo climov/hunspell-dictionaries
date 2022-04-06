@@ -10,9 +10,9 @@
     "qscript": "Latin",
     "qcountry": "Portugal",
     "pack": "basic",
-    "version": "1.0.0",
-    "sourceVersion": "2013-10",
-    "stems": "311,682",
-    "source": "elasticsearch",
+    "version": "2.0.0",
+    "sourceVersion": "20220304",
+    "stems": "55,275",
+    "source": "https://natura.di.uminho.pt/download/sources/Dictionaries/hunspell/",
     "dictType": "hs"
 }

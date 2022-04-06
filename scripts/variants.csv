@@ -106,7 +106,8 @@ Papiamentu (CW),pap_CW,Curacao,latin,n,Papiamentu,pap,Papiamento,Latin,CuraSao,p
 Persian (Farsi),fa_IR,,arabic,y,Persian (Farsi),fa,Persian,Arabic,Iran,arabic,1.0.0,1.0 (2015-12-01),"61,839",,
 Polish,pl_PL,,latin,y,Polish,pl,Polish,Latin,Poland,polish,1.0.0,2014-07-16,"299,559",elasticsearch,
 Portuguese (BR),pt_BR,Brazil,latin,n,Portuguese,pt,Portuguese,Latin,Brazil,portuguese,1.0.0,2013-10,"312,368",elasticsearch,
-Portuguese (PT),pt_PT,Portugal,latin,y,Portuguese,pt,Portuguese,Latin,Portugal,basic,1.0.0,2013-10,"311,682",elasticsearch,
+Portuguese (PT pre-AO),pt_PT-preao,Portugal (pre-AO),latin,n,Portuguese,pt,Portuguese,Latin,Portugal,portuguese,1.0.0,20220304,"44,108",https://natura.di.uminho.pt/download/sources/Dictionaries/hunspell/,Antes do Acordo Ortográfico da Língua Portuguesa de 1990
+Portuguese (PT),pt_PT,Portugal,latin,y,Portuguese,pt,Portuguese,Latin,Portugal,basic,2.0.0,20220304,"55,275",https://natura.di.uminho.pt/download/sources/Dictionaries/hunspell/,
 Punjabi,pa_IN,,gurmukhi,y,Punjabi,pa,Punjabi,Gurmukhi,India,punjabi,1.0.0,2005,"2,045",elasticsearch,
 Quechua,qu_EC,,latin,y,Quechua,qu,Quechua,Latin,Ecuador,quechua,1.0.0,0.9,"16,692",freeoffice,
 Romanian,ro_RO,Modern,latin,y,Romanian,ro,Romanian,Latin,Romania,romanian,1.0.0,3.3.10,"181,357",worm,Ortografia post-1993 (â/sunt).

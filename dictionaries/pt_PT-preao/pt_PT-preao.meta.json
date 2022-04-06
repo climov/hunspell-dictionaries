@@ -1,0 +1,19 @@
+{
+    "variantFullName": "Portuguese (PT pre-AO)",
+    "variantID": "pt_PT-preao",
+    "variantName": "Portugal (pre-AO)",
+    "defaultPreset": "latin",
+    "isDefault": false,
+    "languageName": "Portuguese",
+    "languageID": "pt",
+    "qlanguage": "Portuguese",
+    "qscript": "Latin",
+    "qcountry": "Portugal",
+    "pack": "portuguese",
+    "version": "1.0.0",
+    "sourceVersion": "20220304",
+    "stems": "44,108",
+    "source": "https://natura.di.uminho.pt/download/sources/Dictionaries/hunspell/",
+    "description": "Antes do Acordo Ortográfico da Língua Portuguesa de 1990",
+    "dictType": "hs"
+}
