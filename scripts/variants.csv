@@ -98,7 +98,7 @@ Nepali,ne_NP,,devanagari,y,Nepali,ne,Nepali,Devanagari,Nepal,devanagari,1.0.0,2.
 Norwegian (Bokmal),nb_NO,Bokmal,latin,y,Norwegian,no,Norwegian,Latin,Norway,norwegian,1.0.0,2.2,"322,043",worm,
 Norwegian (Nynorsk),nn_NO,Nynorsk,latin,n,Norwegian,no,NorwegianNynorsk,Latin,Norway,norwegian,1.0.0,2.2,"214,829",worm,
 Nyanja,ny_MW,,latin,y,Nyanja,ny,Nyanja,Latin,Malawi,nyanja,1.0.0,,"5,778",elasticsearch,
-Occitan,oc_FR,,latin,y,Occitan,oc,Occitan,Latin,France,occitan,1.0.0,0.2,"53,791",elasticsearch,
+Occitan,oc_FR,,latin,y,Occitan,oc,Occitan,Latin,France,occitan,2.0.0,2021,"87,286",https://gitlab.com/taissou/hunspell-files-for-occitan-lengadocian/,
 Occitan (Gascon),gsc_FR,,latin,y,Occitan (Gascon),gsc,Occitan,Latin,France,occitan,1.0.0,,"2,098,768",elasticsearch,
 Oriya,or_IN,,oriya,y,Oriya,or,Oriya,Oriya,India,oriya,1.0.0,2002,"1,029",elasticsearch,
 Papiamento (AW),pap_AW,Aruba,latin,y,Papiamento,pap,Papiamento,Latin,Aruba,papiamento,1.0.0,1.0 (14-09-2011),"16,373",elasticsearch,

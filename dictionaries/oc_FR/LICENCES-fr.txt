@@ -1,7 +1,10 @@
-Lic�ncia, licence :
+Les fichiers Dic et Aff de la version 0.1 ont étés créés par Bruno GALLART, Cédric VALMARY & Tot En Òc (totenoc.eu) sous licence GPL
+2006-2021
 
-Occitan Lengadocian wordlist for MySpell version 0.2
-Copyright (C) 2006 Bruno GALLART
+Licéncia, licence :
+
+Occitan Lengadocian wordlist pour MySpell version 0.1
+Copyright (C) 2006-2017 Bruno GALLART, Cédric VALMARY & Tot En Òc (totenoc.eu).
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -16,5 +19,3 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
-
-

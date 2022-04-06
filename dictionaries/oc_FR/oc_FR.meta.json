@@ -10,9 +10,9 @@
     "qscript": "Latin",
     "qcountry": "France",
     "pack": "occitan",
-    "version": "1.0.0",
-    "sourceVersion": "0.2",
-    "stems": "53,791",
-    "source": "elasticsearch",
+    "version": "2.0.0",
+    "sourceVersion": "2021",
+    "stems": "87,286",
+    "source": "https://gitlab.com/taissou/hunspell-files-for-occitan-lengadocian/",
     "dictType": "hs"
 }
